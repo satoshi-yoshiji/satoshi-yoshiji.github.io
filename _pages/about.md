@@ -1,13 +1,21 @@
 ---
 permalink: /
-title: "Our lab leverages human genetics and multi-omics to facilitate drug target discovery for diabetes, obesity, and cardiovascular diseases to improve patient care."
+title: "Our lab leverages human genetics and multi-omics to facilitate drug target discovery for diabetes, obesity, and cardiovascular diseases, ultimately aiming to improve patient care."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This site is under construction and will be updated shortly. This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+**Our lab focuses on three main pillars:**
+
+	1.	Analyzing large-scale human genetics and multi-omics data: We utilize proteomics to understand the underlying mechanisms of diabetes, obesity, and cardiovascular diseases (cardiometabolic diseases) and to identify potential drug targets.
+	2.	Building a diverse multi-omics biobank in Montreal: We are creating a biobank with deep phenotyping dedicated to cardiometabolic diseases and beyond.
+	3.	Disentangling the heterogeneity of diabetes and complex diseases: We aim to understand distinctive biology, identify drug targets, and promote precision medicine through the study of these complex diseases.
+
+We belong to [McGill University Department of Human Genetics](https://www.mcgill.ca/humangenetics/), [McGill Genomic Medicine CERC Program](https://www.genomic-medicine-cerc.online/), and [McGill Genome Centre](https://www.mcgillgenomecentre.ca/). We work closely with [Richards lab at McGill University](https://www.mcgill.ca/genepi/) and [Flannick lab at the Broad Institute of MIT and Harvard](https://www.flannicklab.org/).
+
+and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 Under construction
 ======
