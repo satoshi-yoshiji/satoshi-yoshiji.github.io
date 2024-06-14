@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Our lab uses human genetics and multi-omics to identify potential drug targets for diabees, obesity, and cardiovascular diseases to improve patients' care"
 author_profile: true
 redirect_from: 
   - /about/
