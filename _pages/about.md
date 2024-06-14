@@ -9,7 +9,7 @@ redirect_from:
 
 **What we do**: Our lab leverages human genetics and multi-omics to facilitate drug target discovery for diabetes, obesity, and cardiovascular diseases, ultimately aiming to improve patient care.
 
-Our lab focuses on three main pillars:
+**Our research focus**: Our lab focuses on three main pillars:
 1. Analyzing large-scale human genetics and multi-omics data: We utilize proteomics to understand the underlying mechanisms of diabetes, obesity, and cardiovascular diseases (cardiometabolic diseases) and to identify potential drug targets.
 2. Building a diverse multi-omics biobank in Montreal: We are creating a biobank with deep phenotyping dedicated to cardiometabolic diseases and beyond.
 3. Disentangling the heterogeneity of diabetes and complex diseases: We aim to understand distinctive biology, identify drug targets, and promote precision medicine through the study of these complex diseases.
