@@ -75,7 +75,7 @@ author:
 
 # Header Image Settings
 header:
-  default_image: /assets/images/your-header-image.jpg
+  default_image: /assets/images/header-image.jpg
   overlay_color: rgba(0, 0, 0, 0.5) # Optional overlay color
   height: 400px
 
