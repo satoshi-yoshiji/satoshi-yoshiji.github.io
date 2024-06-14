@@ -73,6 +73,11 @@ author:
   youtube          : # Username
   zhihu            : # URL
 
+# Header Image Settings
+header:
+  default_image: /assets/images/your-header-image.jpg
+  overlay_color: rgba(0, 0, 0, 0.5) # Optional overlay color
+  height: 400px
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
