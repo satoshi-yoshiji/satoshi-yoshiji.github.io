@@ -25,4 +25,4 @@ He has worked in industry briefly as a data scientist and his current broader in
 PhD student
 Masashi Hasebe is a Ph.D. student in the Kyoto-McGill International Collaborative Program in Genomic Medicine, co-supervised by Satoshi Yoshiji at McGill University and Daisuke Yabe at Kyoto University. He earned his M.D. from Kyoto University in 2018 and completed his endocrinology training at affiliated hospitals. 
 His interests focus on using omics technologies to understand complex metabolic and cardiovascular diseases better, aiming to improve personalized patient care.
-![profile_photo_masashi_hasebe](/images/masashi_hasebe.png)¬
+![profile_photo_masashi_hasebe](/images/masashi_hasebe.png)
