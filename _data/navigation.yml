@@ -3,19 +3,19 @@ main:
   - title: "Team"
     url: /team/
 
-	- title: "Research"
+  - title: "Research"
     url: /research/
 
   - title: "Publications"
     url: /publications/
 
-	- title: "Join us"
+  - title: "Join us"
     url: /joinus/
-	
-	- title: "contact"
+
+  - title: "contact"
     url: /contact/
-	
-	- title: "Japanese"
+
+  - title: "Japanese"
     url: /japanese/
 
 #  - title: "Talks"
