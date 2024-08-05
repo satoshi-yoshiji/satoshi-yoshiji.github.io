@@ -12,11 +12,8 @@ main:
   - title: "Join us"
     url: /joinus/
 
-  - title: "contact"
+  - title: "Contact"
     url: /contact/
-
-  - title: "Japanese"
-    url: /japanese/
 
 #  - title: "Talks"
 #    url: /talks/    
