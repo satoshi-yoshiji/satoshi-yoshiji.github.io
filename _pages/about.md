@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**What we do**: Our lab leverages human genetics and multi-omics to facilitate drug target discovery for diabetes, obesity, and cardiovascular diseases, ultimately aiming to improve patient care.
-
+**What we do**: Our lab uses human genetics and multi-omics to understand the biology of diabetes, obesity, and cardiovascular diseases and to identify potential drug targets for them, aiming to improve patient care.
 
 **Our research focus**: Our lab focuses on three main pillars:
 1. Large-scale human genetics and multi-omics data analysis: We use genomics, proteomics, and other omics data in combination with genetic epidemiology methods to understand the underlying mechanisms of diabetes, obesity, and cardiovascular diseases and to identify potential drug targets.
