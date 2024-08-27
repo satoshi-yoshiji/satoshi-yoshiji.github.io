@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 **Our research focus**: Our lab focuses on three main pillars:
+
 **1. Large-scale human genetics and multi-omics analysis for drug target discovery: We use genomics, proteomics, and other omics in combination with genetic epidemiology methods to understand the underlying mechanisms of diabetes, obesity, and cardiovascular diseases, and to identify potential drug targets.** <br />
 We are living in an unprecedented time of access to enormous amounts of genomics, proteomics, and omics data. For example, the UK Biobank, a leading open science biobank, currently holds more than 10 petabytes of data, expected to grow to over 40 petabytes by 2025. Although extensive training is required to fully utilize these datasets, the opportunities are enormous.
 In our lab, we use genetic epidemiology methods such as genome-wide association studies (GWAS), Mendelian randomization (MR), colocalization, and mediation analysis, combined with gene expression analysis at both tissue and single-cell resolution.
