@@ -27,11 +27,6 @@ We will generate the data on a rolling basis and are committed to open science, 
  <br />
 ![bioportal](image_bioportal.png)
 
-Link: <br />
-https://www.mcgill.ca/bioportal/public/ <br />
-https://www.genomic-medicine-cerc.online/bio-portal/ <br />
-
-
 **3. Disentangling the heterogeneity of diabetes and complex diseases: We dissect the genetic heterogeneity of diabetes and complex traits to understand their distinctive biology, identify drug targets, and ultimately promote precision medicine.** <br />
 Type 2 diabetes is a heterogeneous disease, and both genetic and phenotypic clustering have identified multiple subtypes. Notably, these subtypes exhibit different complication profiles. For instance, a subtype with a pancreatic beta-cell dysfunction-like phenotype has an increased risk of diabetic eye disease (retinopathy), whereas subtypes with obesity-like and lipodystrophy-like characteristics have an increased risk of coronary artery disease.
 These findings highlight the need for better characterization of these subtypes and the identification of their causal genes and mechanisms, which can be leveraged for drug development and potential precision medicine.
