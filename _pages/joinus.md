@@ -7,7 +7,7 @@ author_profile: true
 
 **We are Hiring!**
 
-We are looking for applicants with strong quantitative science skills (e.g., R, Python) and research experience in relevant fields. You'll have the opportunity to grow in a supportive environment with regular meetings with the PI, the lab team, and the expanded CERC team.
+We are looking for applicants with  quantitative science skills and/or research experience in relevant fields. You'll have the opportunity to grow in a supportive environment with regular meetings with the PI, the lab team, and the expanded CERC team.
 
 If you are seeking opportunities as a PhD or MSc student, postdoctoral fellow, or bioinformatician/computational biologist, please contact me at **satoshi.yoshji [at] mcgill.ca** with the following:
 1. Your CV
@@ -20,7 +20,7 @@ We strongly welcome candidates who have demonstrated research experience, excell
 **Graduate Students (PhD or MSc)**:
 Prospective students or those accepted to or enrolled in McGill University’s Department of Human Genetics or Quantitative Life Sciences are invited to apply. Candidates should have, or be expected to receive, a Bachelor’s degree in a relevant field (e.g., bioinformatics, computer science, AI, biology, genetics, medicine, or an equivalent qualification), and demonstrated research experience. At least one first-author publication is preferred for PhD-level applicants.
 
-*8Postdoctoral Fellows**:
+**Postdoctoral Fellows**:
 Applicants should hold a Ph.D. or M.D. in a relevant field (e.g., bioinformatics, computer science, AI, biology, genetics, or medicine, or an equivalent qualification). They should have a solid record of peer-reviewed publications, proven research experience, and a strong motivation for both independent and collaborative work.
 
 **Computational Biologists/Bioinformaticians**:
