@@ -11,7 +11,7 @@ We are looking for applicants with  quantitative science skills and/or research 
 
 If you are seeking opportunities as a PhD or MSc student, postdoctoral fellow, or bioinformatician/computational biologist, please contact me at **satoshi.yoshji [at] mcgill.ca** with the following:
 1. Your CV
-2. A 1-2 page cover letter detailing how your interests and skills align with our lab’s research.
+2. A 1(-2) page cover letter detailing how your interests and skills align with our lab’s research.
 
 ### Positions Available:
 
