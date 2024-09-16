@@ -5,6 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-Please email me at satoshi.yosshiji [at] mcgill.ca
+Please email me at satoshi.yoshiji [at] mcgill.ca
 
 
