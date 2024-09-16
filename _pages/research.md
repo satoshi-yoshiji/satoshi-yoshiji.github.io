@@ -26,11 +26,11 @@ BioPortal is designed for future recall-by-genotype and recall-by-phenotype stud
 So far, BioPortal has secured more than 9 million CAD and has recruited over 2,000 patients within 11 months. Notably, approximately half of the participants are from previously underrepresented groups.
 We will generate the data on a rolling basis and are committed to open science, with the ultimate goal of transforming clinical care.
 
-• BioPortal has secured $9.4 million in funding from public and private entities, including but not limited to the Fondation de l’Hôpital Général Juif | The Jewish General Hospital Foundation, McGill Canada Excellence Research Chair in Genomic Medicine, CQDM, and Roche.<br>
-• As of September 16, 2024, Dr. Satoshi Yoshiji’s lab has recruited more than 2,200 participants, with 50% being non-white by self-reported ethnicity, from the Department of Endocrinology, Family Medicine, ER, and Nephrology. Recruitment has also expanded to the Cardiology clinic.<br>
-• BioPortal aims to perform exome sequencing (30X), low-pass whole-genome sequencing, and imputation for all 12,500 participants.<br>
-• The project aims to measure up to 5,400 protein levels in 3,000 patients.<br>
-• We will share the data with the community to maximize the impact of the study.<br>
+• BioPortal has secured $9.4 million in funding from public and private entities, including but not limited to the Fondation de l’Hôpital Général Juif | The Jewish General Hospital Foundation, McGill Canada Excellence Research Chair in Genomic Medicine, CQDM, and Roche.<br />
+• As of September 16, 2024, Dr. Satoshi Yoshiji’s lab has recruited more than 2,200 participants, with 50% being non-white by self-reported ethnicity, from the Department of Endocrinology, Family Medicine, ER, and Nephrology. Recruitment has also expanded to the Cardiology clinic.<br />
+• BioPortal aims to perform exome sequencing (30X), low-pass whole-genome sequencing, and imputation for all 12,500 participants.<br />
+• The project aims to measure up to 5,400 protein levels in 3,000 patients.<br />
+• We will share the data with the community to maximize the impact of the study.<br />
 
  <br />
 ![bioportal](image_bioportal.png)
