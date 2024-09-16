@@ -40,5 +40,6 @@ Type 2 diabetes is a heterogeneous disease, and both genetic and phenotypic clus
 These findings highlight the need for better characterization of these subtypes and the identification of their causal genes and mechanisms, which can be leveraged for drug development and potential precision medicine.
 In collaboration with the Flannick lab at the Broad Institute of MIT and Harvard, we are using a new Bayesian method to characterize each subtype, identify causal genes, and understand their underlying biology.
 Further details will be presented at ASHG 2024.
- <br />
+
+<br />
 ![diversity](image_diversity.png)
