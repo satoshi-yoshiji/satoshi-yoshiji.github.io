@@ -15,6 +15,7 @@ redirect_from:
 2. Building and analyzing BioPortal: We are creating and analyzing a new multi-ancestry, multi-omics biobank of 12,500 individuals in Montreal to accelerate drug development and advance precision medicine.
 ![bioportal](image_bioportal.png)
 3. Disentangling the heterogeneity of diabetes and complex diseases: We dissect the genetic heterogeneity of diabetes and complex traits to understand their distinctive biology, identify drug targets, and ultimately promote precision medicine.
+<br />
 ![diversity](image_diversity.png)
 
 **Who we are**: We are a group of ambitious and forward-looking researchers who enjoy science. We are members of [McGill University Department of Human Genetics](https://www.mcgill.ca/humangenetics/), [McGill Genomic Medicine CERC Program](https://www.genomic-medicine-cerc.online/), and [McGill Genome Centre](https://www.mcgillgenomecentre.ca/). <br />
