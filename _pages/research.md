@@ -7,8 +7,8 @@ author_profile: true
 **Our research focus**: Our lab focuses on three main pillars:
 
 **1. Large-scale human genetics and multi-omics analysis for drug target discovery: We use genomics, proteomics, and other omics in combination with genetic epidemiology and statistical genetics ethods to understand the underlying mechanisms of diabetes, obesity, and cardiovascular diseases, and to identify potential drug targets.** <br />
-The methods we often use include genome-wide association studies (GWAS), Mendelian randomization (MR), particularly proteome-wide MR, mediation analysis, colocalization, and fine-mapping. We also use gene expression analysis at both tissue and single-cell resolution as well as traditional epidemiology analyses.
-We have access to clinical, genetic, and omics data from various biobanks including 500,000 individuals in the UK Biobank, 250,000 individuals in the All of Us Research Program (a NIH-led multi-ancestry biobank), Canadian Longitudinal Study on Aging, and the Mass General Brigham Biobank (through collaboration with the Broad Institute).
+The methods we often use include genome-wide association studies (GWAS), Mendelian randomization (MR), particularly proteome-wide MR, mediation analysis, colocalization, and fine-mapping. We also use gene expression analysis at both tissue and single-cell resolution as well as traditional epidemiology analyses.<br />
+We have access to clinical, genetic, and omics data from various biobanks including 500,000 individuals in the UK Biobank, 250,000 individuals in the All of Us Research Program (a NIH-led multi-ancestry biobank), Canadian Longitudinal Study on Aging, and the Mass General Brigham Biobank (through collaboration with the Broad Institute).<br />
 Additionally, we are contributing to international GWAS consortia including Type 2 Diabetes Global Genoimics Initiative (type 2 diabetes), MAGIC (glycemic traits), CardiogramPlusC4D (coronary artery disease), GIANT (anthropometric traits), and GO3 (osteoarthritis).
 By integrating these methods and datasets, we aim to better understand cardiometabolic diseases, identify potential therapeutic targets, and ultimately improve clinical care.	
 <br />
@@ -21,9 +21,9 @@ Su, C-Y., et al. Multi-ancestry proteome-wide Mendelian randomization offers a c
 
 
 **2.Building and analyzing BioPortal: We are creating and analyzing a new multi-ancestry, multi-omics biobank of 12,500 individuals in Montreal to accelerate drug development and advance precision medicine.** <br />
-BioPortal is a unique research initiative by the Jewish General Hospital (JGH)/Lady Davis Institute, McGill University, and a public-private partnership, starting with Roche. This is a joint team effort, and I serve as a co-PI for BioPortal, responsible for building, navigating, and analyzing the biobank. Its mission is to generate a unique and rich biobank comprising electronic health records, baseline measurements including BIA-derived body measurements, genomics data from 12,500 individuals, proteomics data from 3,000 individuals, and deep phenotyping.
+BioPortal is a unique research initiative by the Jewish General Hospital (JGH)/Lady Davis Institute, McGill University, and a public-private partnership, starting with Roche. <br />
+This is a joint team effort, and I serve as a co-PI for BioPortal, responsible for building, navigating, and analyzing the biobank. Its mission is to generate a unique and rich biobank comprising electronic health records, baseline measurements including BIA-derived body measurements, genomics data from 12,500 individuals, proteomics data from 3,000 individuals, and deep phenotyping. <br />
 BioPortal is designed for future recall-by-genotype and recall-by-phenotype studies, making it a unique multi-omics biobank of its kind.
-So far, BioPortal has secured more than 9 million CAD and has recruited over 2,000 patients within 11 months. Notably, approximately half of the participants are from previously underrepresented groups.
 We will generate the data on a rolling basis and are committed to open science, with the ultimate goal of transforming clinical care.
 <br />
 <br />
@@ -31,13 +31,13 @@ We will generate the data on a rolling basis and are committed to open science, 
 • As of September 16, BioPortal has recruited more than 2,200 participants, with 50% being non-white by self-reported ethnicity, from the Department of Endocrinology, Family Medicine, ER, and Nephrology. Recruitment has also expanded to the Cardiology clinic.<br />
 • BioPortal aims to perform exome sequencing (30X), low-pass whole-genome sequencing, and imputation for all 12,500 participants.<br />
 • The project aims to measure up to 5,400 protein levels in 3,000 patients.<br />
-• We will share the data with the community to maximize the impact of the study.<br />
+• We will generate the data on a rolling basis and commited to open science through data sharing with the community. <br />
  <br />
 ![bioportal](image_bioportal.png)
 
 **3. Disentangling the heterogeneity of diabetes and complex diseases: We dissect the genetic heterogeneity of diabetes and complex traits to understand their distinctive biology, identify drug targets, and ultimately promote precision medicine.** <br />
 Type 2 diabetes is a heterogeneous disease, and both genetic and phenotypic clustering have identified multiple subtypes. Notably, these subtypes exhibit different complication profiles. For instance, a subtype with a pancreatic beta-cell dysfunction-like phenotype has an increased risk of diabetic eye disease (retinopathy), whereas subtypes with obesity-like and lipodystrophy-like characteristics have an increased risk of coronary artery disease.
-These findings highlight the need for better characterization of these subtypes and the identification of their causal genes and mechanisms, which can be leveraged for drug development and potential precision medicine.
+These findings highlight the need for better characterization of these subtypes and the identification of their causal genes and mechanisms, which can be leveraged for drug development and potential precision medicine.<br />
 In collaboration with the Flannick lab at the Broad Institute of MIT and Harvard, we are using a new Bayesian method to characterize each subtype, identify causal genes, and understand their underlying biology.
 Further details will be presented at ASHG 2024.
 
