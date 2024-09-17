@@ -6,11 +6,11 @@ author_profile: true
 ---
 **Our research focus**: Our lab focuses on three main pillars:
 
-**1. Large-scale human genetics and multi-omics analysis for drug target discovery: We use genomics, proteomics, and other omics in combination with genetic epidemiology methods to understand the underlying mechanisms of diabetes, obesity, and cardiovascular diseases, and to identify potential drug targets.** <br />
-We are living in an unprecedented time of access to enormous amounts of genomics, proteomics, and omics data. For example, the UK Biobank, a leading open science biobank, currently holds more than 10 petabytes of data, expected to grow to over 40 petabytes by 2025. Although extensive training is required to fully utilize these datasets, the opportunities are enormous.
-In our lab, we use genetic epidemiology methods such as genome-wide association studies (GWAS), Mendelian randomization (MR), colocalization, and mediation analysis, combined with gene expression analysis at both tissue and single-cell resolution.
-We have access to clinical, genetic, and omics data from 500,000 individuals in the UK Biobank, 250,000 individuals in the All of Us Research Program (a NIH-led multi-ancestry biobank), and the Mass General Brigham Biobank (through collaboration with the Broad Institute).
-By integrating these methods and datasets, we aim to better understand cardiometabolic diseases, identify potential therapeutic targets, and ultimately improve clinical care.
+**1. Large-scale human genetics and multi-omics analysis for drug target discovery: We use genomics, proteomics, and other omics in combination with genetic epidemiology and statistical genetics ethods to understand the underlying mechanisms of diabetes, obesity, and cardiovascular diseases, and to identify potential drug targets.** <br />
+The methods we often use include genome-wide association studies (GWAS), Mendelian randomization (MR), particularly proteome-wide MR, mediation analysis, colocalization, and fine-mapping. We also use gene expression analysis at both tissue and single-cell resolution as well as traditional epidemiology analyses.
+We have access to clinical, genetic, and omics data from various biobanks including 500,000 individuals in the UK Biobank, 250,000 individuals in the All of Us Research Program (a NIH-led multi-ancestry biobank), Canadian Longitudinal Study on Aging, and the Mass General Brigham Biobank (through collaboration with the Broad Institute).
+Additionally, we are contributing to international GWAS consortia including Type 2 Diabetes Global Genoimics Initiative (type 2 diabetes), MAGIC (glycemic traits), CardiogramPlusC4D (coronary artery disease), GIANT (anthropometric traits), and GO3 (osteoarthritis).
+By integrating these methods and datasets, we aim to better understand cardiometabolic diseases, identify potential therapeutic targets, and ultimately improve clinical care.	
 <br />
 ![omics](image_omics.png)
 
