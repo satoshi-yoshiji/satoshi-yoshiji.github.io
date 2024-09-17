@@ -7,7 +7,7 @@ author_profile: true
 
 **Satoshi Yoshiji, MD, PhD**<br />
 Principal investigator<br />
-He is a Tenure-Track Assistant Professor at McGill University Department of Human Genetics, McGill Genomic Medicine CERC Program, and McGill Genome Centre. He is also affiliated with McGill’s Quantitative Life Sciences Program.<br />
+Satoshi Yoshiji is a Tenure-Track Assistant Professor at McGill University Department of Human Genetics, McGill Genomic Medicine CERC Program, and McGill Genome Centre. He is also affiliated with McGill’s Quantitative Life Sciences Program.<br />
 He holds a visiting scholar position at the Broad Institute of MIT and Harvard, and the Mass General Brigham Research Institute.<br />
 Satoshi is an endocrinologist by training and is board-certified in Endocrinology and Internal Medicine. His guiding principle is to ask clinically relevant questions and solve them using human genetics. His research focuses on obesity, diabetes, and cardiovascular diseases, and he aims to ultimately improve clinical care by identifying potential drug targets and promoting genetics and omics-guided precision medicine.<br />
 Following his residency and fellowship at Kyoto University and its affiliated hospitals, he earned a joint PhD in Human Genetics from McGill University and Kyoto University. During his PhD, he leveraged large-scale genomics and proteomics to identify therapeutic targets.<br />
