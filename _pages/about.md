@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Using human genetics and multi-omics for drug target discovery and improving clinical care"
+title: "Using human genetics and multi-omics to identify drug targets and improve clinical care"
 author_profile: true
 redirect_from: 
   - /about/
