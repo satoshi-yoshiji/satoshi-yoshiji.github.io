@@ -17,7 +17,7 @@ By integrating these methods and datasets, we aim to better understand cardiomet
 References: <br />
 Yoshiji, S., et al. Proteome-wide Mendelian randomization implicates nephronectin as an actionable mediator of the effect of obesity on COVID-19 severity. Nat Metab 5, 248–264 (2023). https://doi.org/10.1038/s42255-023-00742-w <br />
 Yoshiji, S., et al. COL6A3-derived endotrophin mediates the effect of obesity on coronary artery disease: an integrative proteogenomics analysis. medRxiv (2023). https://doi.org/10.1101/2023.04.19.23288706 <br />
-Su, C-Y., et al. Multi-ancestry proteome-wide Mendelian randomization offers a comprehensive protein-disease atlas and potential therapeutic targets. ASHG (2024) - Platform presentation <br />
+Su, C-Y., et al. Multi-ancestry proteome-wide Mendelian randomization offers a comprehensive protein-disease atlas and potential therapeutic targets. medRxiv (2024). https://doi.org/10.1101/2024.10.17.24315553; ASHG (2024) - Platform presentation <br />
 
 
 **2.Building and analyzing BioPortal: We are creating and analyzing a new multi-ancestry, multi-omics biobank of 12,500 individuals in Montreal to accelerate drug development and advance precision medicine.** <br />
