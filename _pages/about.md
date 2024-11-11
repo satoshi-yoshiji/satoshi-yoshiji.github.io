@@ -28,4 +28,6 @@ Multi-ancestry proteome-phenome-wide Mendelian randomization offers a comprehens
 Chen-Yang Su, Adriaan van der Graaf, Wenmin Zhang, Dong-Keun Jang, Susannah Selber-Hnatiw, Ta-Yu Yang, Guillaume Butler-Laporte, Kevin Y. H. Liang, Yiheng Chen, Fumihiko Matsuda, Maria C. Costanzo, J. Brent Richards, Noel P. Burtt, Jason Flannick, Sirui Zhou, Vincent Mooser, Tianyuan Lu, Satoshi Yoshiji  
 medRxiv 2024.10.17.24315553; doi: [https://doi.org/10.1101/2024.10.17.24315553](https://doi.org/10.1101/2024.10.17.24315553)  
 
-• Chen-Yang Su, a PhD student at the lab, gave oral presentations at ASHG 2024 and IGES 2024 on our multi-ancestry proteome-phenome-wide MR atlas work.  
+• Chen-Yang Su, a PhD student at the lab, gave oral presentations at ASHG 2024 and IGES 2024 on our multi-ancestry proteome-phenome-wide MR atlas work.
+
+• Éloi Gagnon has joined our lab.
