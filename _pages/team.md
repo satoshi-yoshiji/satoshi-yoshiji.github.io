@@ -27,3 +27,9 @@ PhD student<br />
 Masashi Hasebe is a Ph.D. student in the Kyoto-McGill International Collaborative Program in Genomic Medicine, co-supervised by Satoshi Yoshiji at McGill University and Daisuke Yabe at Kyoto University. He earned his M.D. from Kyoto University in 2018 and completed his endocrinology training at affiliated hospitals.<br />
 His interests focus on using omics technologies to understand complex metabolic and cardiovascular diseases better, aiming to improve personalized patient care.<br />
 ![profile_photo_masashi_hasebe](profile_masashi_hasebe.png)
+
+**Éloi Gagnon**<br />
+PhD Intern/Post-doctoral fellow
+As part of his PhD in statistical genetics at Laval University, Eloi is currently completing a placement in Professor Satoshi’s Lab. Passionate about using human genetics to advance drug development, his doctoral work has led to over a dozen first-author publications. These research projects focused on anticipating clinical trial outcomes, identifying potential side effects, understanding drug mechanisms of action, predicting interactions with other medications, and identifying patient populations likely to respond well to specific treatments.
+Eloi has previously interned as a statistical geneticist at Apollo Therapeutics, a biotech company in Cambridge, UK, and served as an invited research fellow at Imperial College London. Additionally, he was President of the Student Committee at the Quebec Heart and Lung Institute Research Center. His work at the Canada Excellence Research Chair in Genomic Medicine focuses on leveraging large-scale genetic data to improve type 2 diabetes patient care.
+

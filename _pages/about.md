@@ -20,3 +20,12 @@ redirect_from:
 
 **Who we are**: We are a group of ambitious and forward-looking researchers who enjoy science. We are members of [McGill University Department of Human Genetics](https://www.mcgill.ca/humangenetics/), [McGill Genomic Medicine CERC Program](https://www.genomic-medicine-cerc.online/), and [McGill Genome Centre](https://www.mcgillgenomecentre.ca/). <br />
 The PI is also affiliated with [McGill’s Quantitative Life Sciences Program](https://www.mcgill.ca/qls/satoshi-yoshiji/). He holds a visiting scholar position at [the Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), and [the Mass General Brigham Research Institute](https://cgm.massgeneral.org/).
+
+**News**:<br />¬
+Nov, 2024.  
+• Our multi-ancestry proteome-phenome-wide MR atlas work is out.  
+Multi-ancestry proteome-phenome-wide Mendelian randomization offers a comprehensive protein-disease atlas and potential therapeutic targets  
+Chen-Yang Su, Adriaan van der Graaf, Wenmin Zhang, Dong-Keun Jang, Susannah Selber-Hnatiw, Ta-Yu Yang, Guillaume Butler-Laporte, Kevin Y. H. Liang, Yiheng Chen, Fumihiko Matsuda, Maria C. Costanzo, J. Brent Richards, Noel P. Burtt, Jason Flannick, Sirui Zhou, Vincent Mooser, Tianyuan Lu, Satoshi Yoshiji  
+medRxiv 2024.10.17.24315553; doi: [https://doi.org/10.1101/2024.10.17.24315553](https://doi.org/10.1101/2024.10.17.24315553)  
+
+• Chen-Yang Su, a PhD student at the lab, gave oral presentations at ASHG 2024 and IGES 2024 on our multi-ancestry proteome-phenome-wide MR atlas work.  
