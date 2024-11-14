@@ -39,4 +39,4 @@ PhD student<br />
 Yefeng Yang is a first-year PhD student in the Quantitative Life Sciences program, supervised by Prof. Satoshi Yoshiji. 
 He holds a Master’s degree in Biostatistics from Emory University and a Bachelor’s degree in Biotechnology and Food Engineering from the Technion - Israel Institute of Technology. 
 His research focuses on multi-omics data analysis to explore connections between proteomics and phenotypic traits. Outside of academics, Yefeng enjoys playing basketball, badminton, and working out at the gym.<br />
-![profile_photo_yefeng_yang](profile_yefeng_yang.jpg)
+![profile_photo_yefeng_yang](profile_yefeng_yang.png)
