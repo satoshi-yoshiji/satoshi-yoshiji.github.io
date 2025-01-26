@@ -4,14 +4,9 @@ title: "Join Us"
 permalink: /joinus/
 author_profile: true
 ---
-## The laboratory of Dr. Satoshi Yoshiji
-
-[https://yoshiji-lab.org/](https://yoshiji-lab.org/)  
-Department of Human Genetics, McGill University
-
 The laboratory of Dr. Satoshi Yoshiji in the Department of Human Genetics at McGill University has fully-funded openings: **1–2 MSc**, **1 PhD**, and **1 Post-doctoral fellow**. Our lab leverages human genetics and multi-omics to accelerate drug target discovery and precision medicine. We encourage motivated students or graduates from diverse backgrounds to apply.
 
-The standard start date for **MSc/PhD** students is **Fall 2025 (Sept 2025)** or **Winter 2026 (Jan 2026)**, and the start date for the **post-doctoral fellow** is flexible. Please see [https://yoshiji-lab.org/joinus/](https://yoshiji-lab.org/joinus/) for more details.
+The standard start date for **MSc/PhD** students is **Fall 2025 (Sept 2025)** or **Winter 2026 (Jan 2026)**, and the start date for the **post-doctoral fellow** is flexible. 
 
 ---
 
@@ -23,11 +18,8 @@ McGill University in Montreal, Canada, consistently ranks among the top 30 unive
 
 ## About the Lab
 
-Our lab investigates the biology of diabetes, obesity, cardiovascular diseases, and other complex traits to identify new drug targets and advance precision medicine. We use large-scale human genetics, multi-omics, and genetic epidemiology/statistical approaches (GWAS, Mendelian randomization, fine-mapping, polygenic risk scores). Representative publications include:
-
-- Yoshiji et al. *Nature Genetics* 2025  
-- Su et al. *medRxiv* 2024  
-- Yoshiji et al. *Nature Metabolism* 2023  
+Our lab investigates the biology of diabetes, obesity, cardiovascular diseases, and other complex traits to identify new drug targets and advance precision medicine. We use large-scale human genetics, multi-omics, and genetic epidemiology/statistical approaches (GWAS, Mendelian randomization, fine-mapping, polygenic risk scores).   
+Representative publications include: [Yoshiji et al. *Nature Genetics* 2025](https://www.nature.com/articles/s41588-024-02052-7), [Su et al. *medRxiv* 2024](https://www.medrxiv.org/content/10.1101/2024.10.17.24315553v2), [Yoshiji et al. *Nature Metabolism* 2023](https://www.nature.com/articles/s42255-023-00742-w)
 
 Our team currently includes one PI and three PhD students and is located in the **McGill Victor Philip Dahdaleh Institute of Genomic Medicine** on the downtown campus (740 Dr Penfield Ave, Montreal, Quebec H3A 2T8). We are one of the five labs in the **McGill Canada Excellence Research Chair (CERC) in Genomic Medicine**. As a growing lab, your success is our success. We are deeply committed to supporting and advancing your academic career development.
 
@@ -114,10 +106,8 @@ Please submit the following three documents to `satoshi.yoshiji@mcgill.ca` with 
 3. Academic transcripts (unofficial transcripts acceptable).
 
 **Important**: As we receive many generic emails, please make sure to use this title and include the above documents.  
-We encourage you to read the Abstract of the following three papers to see if your interests align with ours:  
-- Yoshiji et al. *Nature Genetics* 2025  
-- Su et al. *medRxiv* 2024  
-- Yoshiji et al. *Nature Metabolism* 2023  
+We encourage you to read the Abstract of the following three papers to see if your interests align with ours:
+[Yoshiji et al. *Nature Genetics* 2025](https://www.nature.com/articles/s41588-024-02052-7), [Su et al. *medRxiv* 2024](https://www.medrxiv.org/content/10.1101/2024.10.17.24315553v2), [Yoshiji et al. *Nature Metabolism* 2023](https://www.nature.com/articles/s42255-023-00742-w)
 
 No need to do in-depth reading.
 
