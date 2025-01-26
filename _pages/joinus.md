@@ -14,7 +14,7 @@ We are also looking for bioinformaticians, who can support us building and analy
 
 ## About McGill
 
-McGill University in Montreal, Canada, consistently ranks among the top 30 universities in the **QS World University Rankings 2025**. Montreal ranks **#1 among QS Best Student Cities in North America** and **#10 globally**.
+McGill University in Montreal, Canada,  ranks among the top 30 universities in the (**QS World University Rankings 2025**)[https://www.topuniversities.com/universities/mcgill-university]. Montreal ranks (**#1 among QS Best Student Cities in North America**)[https://www.topuniversities.com/city-rankings?region=North%20America] and (**#10 globally**)[https://www.topuniversities.com/best-student-cities].
 
 ---
 
