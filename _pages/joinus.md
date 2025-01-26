@@ -87,7 +87,7 @@ You will lead and publish projects aligned with the lab’s key research interes
 - Strong record keeping  
 - Strong teamwork and ability to work independently  
 - For **MSc/PhD**: cGPA ≥ 3.2 (preferably ≥ 3.5). Exceptions possible on a case-by-case basis  
-- For **Post-doc**: No GPA threshold, but at least one first-author, peer-reviewed paper is considered  
+- For **Post-doc**: No GPA threshold, but at least one first-author, peer-reviewed paper is required  
 - Willingness to learn genetic epidemiology methods (e.g., GWAS, MR), biology of human diseases, and large-scale quantitative analyses using high-performance computing or cloud computing
 
 ### Desirable but Not Required at Entry
