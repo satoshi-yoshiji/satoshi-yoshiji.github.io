@@ -8,6 +8,8 @@ The laboratory of Dr. Satoshi Yoshiji in the Department of Human Genetics at McG
 
 The standard start date for **MSc/PhD** students is **Fall 2025 (Sept 2025)** or **Winter 2026 (Jan 2026)**, and the start date for the **post-doctoral fellow** is flexible. 
 
+We are also looking for bioinformaticians, who can support us building and analyzing a new multi-ancestry and multi-omics biobank, BioPortal. Please contact us for further information.
+
 ---
 
 ## About McGill
@@ -61,8 +63,7 @@ You will lead and publish projects aligned with the lab’s key research interes
 ## Positions Available and Start Date
 
 - **Post-doctoral position**:  
-  - Start date flexible, standard start in Fall 2025  
-  - No restriction on current citizenship/residence status  
+  - Start date flexible. We encourage all motivated candidates to apply.
 
 - **MSc/PhD positions**:  
   - Start date will depend on applicant’s status due to McGill deadlines [https://www.mcgill.ca/gps/students/registration/graduating/deadlines](https://www.mcgill.ca/gps/students/registration/graduating/deadlines)  
@@ -73,7 +74,7 @@ You will lead and publish projects aligned with the lab’s key research interes
 
 ---
 
-## Selection Criteria
+## Selection Criteria for MSc/PhD/Post-docoral positions
 
 ### Essential
 

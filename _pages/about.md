@@ -26,10 +26,12 @@ Jan, 2025.
 • Our paper has been published in Nature Genetics!  
 We integrated large-scale genomics, proteomics, and other omics to ask a question of "Does plasma proteins mediate obesity’s effect on coronary artery disease risk?"  
 Using two-step proteome-wide MR, domain-aware MR, epigenomics & scRNA-seq, we prioritized endotrophin as a mediator & potential therapeutic target.  
-Satoshi Yoshiji, Tianyuan Lu, Guillaume Butler-Laporte, Julia Carrasco-Zanini-Sanchez, Chen-Yang Su, Yiheng Chen, Kevin Liang, Julian Daniel Sunday Willett, Shidong Wang, Darin Adra, Yann Ilboudo, Takayoshi Sasako, Satoshi Koyama, Tetsushi Nakao, Vincenzo Forgetta, Yossi Farjoun, Hugo Zeberg, Sirui Zhou, Michael Marks-Hultström, Mitchell J. Machiela, Rama Kaalia, Hesam Dashti, Melina Claussnitzer, Jason Flannick, and J. Brent Richards. Integrative proteogenomic analysis identifies COL6A3-derived endotrophin as a mediator of the effect of obesity on coronary artery disease. Nat Genet (2025). [https://doi.org/10.1038/s41588-024-02052-7](https://doi.org/10.1038/s41588-024-02052-7)  
+
+Satoshi Yoshiji, Tianyuan Lu, Guillaume Butler-Laporte, Julia Carrasco-Zanini-Sanchez, Chen-Yang Su, Yiheng Chen, Kevin Liang, Julian Daniel Sunday Willett, Shidong Wang, Darin Adra, Yann Ilboudo, Takayoshi Sasako, Satoshi Koyama, Tetsushi Nakao, Vincenzo Forgetta, Yossi Farjoun, Hugo Zeberg, Sirui Zhou, Michael Marks-Hultström, Mitchell J. Machiela, Rama Kaalia, Hesam Dashti, Melina Claussnitzer, Jason Flannick, and J. Brent Richards. Integrative proteogenomic analysis identifies COL6A3-derived endotrophin as a mediator of the effect of obesity on coronary artery disease. *Nat Genet* (2025).  
+[https://doi.org/10.1038/s41588-024-02052-7](https://doi.org/10.1038/s41588-024-02052-7)  
 ![natgenet2025](natgenet2025.png)
 
-• Yefeng Yang, a PhD student from [the McGill QLS program](https://www.mcgill.ca/qls/) has joined the lab as a rotation student. Welcome Yefeng!
+• Yefeng Yang, a PhD student from [the McGill QLS program](https://www.mcgill.ca/qls/) has joined the lab as a rotation student. Welcome, Yefeng!
 
 Dec, 2024.  
 Satoshi gave an invited talk at Korean Society of Medical Genetics and Genomics (KSMGG) and East Asian Union of Human Genetics Society (EAUHGS) on "Using Proteomics and Genomics to Understand Complex Diseases and Identify Drug Targets"
@@ -37,8 +39,8 @@ Satoshi gave an invited talk at Korean Society of Medical Genetics and Genomics 
 Nov, 2024.  
 • Our multi-ancestry proteome-phenome-wide MR atlas work is out!  
 Multi-ancestry proteome-phenome-wide Mendelian randomization offers a comprehensive protein-disease atlas and potential therapeutic targets  
-Chen-Yang Su, Adriaan van der Graaf, Wenmin Zhang, Dong-Keun Jang, Susannah Selber-Hnatiw, Ta-Yu Yang, Guillaume Butler-Laporte, Kevin Y. H. Liang, Yiheng Chen, Fumihiko Matsuda, Maria C. Costanzo, J. Brent Richards, Noel P. Burtt, Jason Flannick, Sirui Zhou, Vincent Mooser, Tianyuan Lu, Satoshi Yoshiji  
-medRxiv 2024.10.17.24315553; doi: [https://doi.org/10.1101/2024.10.17.24315553](https://doi.org/10.1101/2024.10.17.24315553).  
+
+Chen-Yang Su, Adriaan van der Graaf, Wenmin Zhang, Dong-Keun Jang, Susannah Selber-Hnatiw, Ta-Yu Yang, Guillaume Butler-Laporte, Kevin Y. H. Liang, Yiheng Chen, Fumihiko Matsuda, Maria C. Costanzo, J. Brent Richards, Noel P. Burtt, Jason Flannick, Sirui Zhou, Vincent Mooser, Tianyuan Lu, Satoshi Yoshiji.  *medRxiv* 2024.10.17.24315553; doi: [https://doi.org/10.1101/2024.10.17.24315553](https://doi.org/10.1101/2024.10.17.24315553).  
 Interactive browser: [https://broad.io/protein_mr_atlas](https://broad.io/protein_mr_atlas)   
 This was made possible through the collaboration with the Knolwedge Protal Team at the Broad Institute  
   
