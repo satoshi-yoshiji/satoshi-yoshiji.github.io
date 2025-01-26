@@ -108,7 +108,6 @@ Please submit the following three documents to `satoshi.yoshiji@mcgill.ca` with 
 **Important**: As we receive many generic emails, please make sure to use this title and include the above documents.  
 We encourage you to read the Abstract of the following three papers to see if your interests align with ours:
 [Yoshiji et al. *Nature Genetics* 2025](https://www.nature.com/articles/s41588-024-02052-7), [Su et al. *medRxiv* 2024](https://www.medrxiv.org/content/10.1101/2024.10.17.24315553v2), [Yoshiji et al. *Nature Metabolism* 2023](https://www.nature.com/articles/s42255-023-00742-w)
-
 No need to do in-depth reading.
 
 ---
