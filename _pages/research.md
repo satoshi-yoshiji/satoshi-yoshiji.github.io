@@ -21,7 +21,7 @@ Su, C-Y., et al. Multi-ancestry proteome-wide Mendelian randomization offers a c
 
 
 **2.Building and analyzing BioPortal: We are creating and analyzing a new multi-ancestry, multi-omics biobank of 12,500 individuals in Montreal to accelerate drug development and advance precision medicine.** <br />
-BioPortal is a unique research initiative by the Jewish General Hospital (JGH)/Lady Davis Institute, McGill University, and a public-private partnership, starting with Roche. <br />
+[BioPortal](https://www.mcgill.ca/bioportal/) is a unique research initiative by the Jewish General Hospital (JGH)/Lady Davis Institute, McGill University, and a public-private partnership, starting with Roche. <br />
 This is a joint team effort, and I serve as a co-PI for BioPortal, responsible for building, navigating, and analyzing the biobank. Its mission is to generate a unique and rich biobank comprising electronic health records, baseline measurements including BIA-derived body measurements, genomics data from 12,500 individuals, proteomics data from 3,000 individuals, and deep phenotyping. <br />
 BioPortal is designed for future recall-by-genotype and recall-by-phenotype studies, making it a unique multi-omics biobank of its kind.
 We will generate the data on a rolling basis and are committed to open science, with the ultimate goal of transforming clinical care.
