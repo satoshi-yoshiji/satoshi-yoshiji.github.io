@@ -4,7 +4,8 @@ title: "Join Us"
 permalink: /joinus/
 author_profile: true
 ---
-The laboratory of Dr. Satoshi Yoshiji in the Department of Human Genetics at McGill University has fully-funded openings: **1–2 MSc**, **1 PhD**, and **1 Post-doctoral fellow**. Our lab leverages human genetics and multi-omics to accelerate drug target discovery and precision medicine. We encourage motivated students or graduates from diverse backgrounds to apply.
+We have fully-funded openings: **1–2 MSc**, **1 PhD**, and **1 Post-doctoral fellow**.  
+Motivated students and graduates from diverse backgrounds are encouraged to apply!
 
 The standard start date for **MSc/PhD** students is **Fall 2025 (Sept 2025)** or **Winter 2026 (Jan 2026)**, and the start date for the **post-doctoral fellow** is flexible. 
 
