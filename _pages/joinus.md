@@ -69,7 +69,7 @@ You will lead and publish projects aligned with the lab’s key research interes
 - **Post-doctoral position**:  
   - Start date flexible. We encourage all motivated candidates to apply.
 
-- **MSc/PhD positions**: m
+- **MSc/PhD positions**: 
   - Start date will depend on applicant’s status due to McGill deadlines [https://www.mcgill.ca/gps/students/registration/graduating/deadlines](https://www.mcgill.ca/gps/students/registration/graduating/deadlines)  
   - **Fall 2025**: The candidate will be either  
     - Canadian citizen/PR holder **OR**  
@@ -111,7 +111,7 @@ Please fill in the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd7llW
 Note: We do not track your gmail address you use for filling out the form.  
 
 In the form, we request a combined PDF of the following three documents:
-1. A cover letter (11-point, one-page max) describing your research interests, motivation to join our lab, and relevant experience.  
+1. A cover letter (11-point or larger, one-page max) describing your research interests, motivation to join our lab, and relevant experience.  
 2. A CV detailing your academic background, publications (if applicable), and experience with quantitative analyses and programming.  
 3. Academic transcripts (unofficial transcripts acceptable).
 
