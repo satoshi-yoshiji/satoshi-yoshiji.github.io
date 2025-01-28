@@ -100,17 +100,18 @@ You will lead and publish projects aligned with the lab’s key research interes
 
 ## How to Apply/Inquire
 
-**Interested? Let’s have a 30-min Zoom conversation.**  
-Please submit the following three documents to `satoshi.yoshiji@mcgill.ca` with the title: **“Application for 2025 PhD position at Yoshiji lab”** (please change **PhD** to **MSc** or **Post-doc** as appropriate).
+**Interested?
+We encourage you to take a look at the following three papers to see if your interests align with ours:
+[Yoshiji et al. *Nature Genetics* 2025](https://www.nature.com/articles/s41588-024-02052-7), [Su et al. *medRxiv* 2024](https://www.medrxiv.org/content/10.1101/2024.10.17.24315553v2), [Yoshiji et al. *Nature Metabolism* 2023](https://www.nature.com/articles/s42255-023-00742-w)
 
-1. A cover letter (11-point, one-page max) describing your research interests, motivation, and relevant experience.  
+Please fill in the follwoing form: https://forms.gle/Ho8oGfY31cLJaHvq6
+
+In the form, we request a combined PDF of the following three documents:
+1. A cover letter (11-point, one-page max) describing your research interests, motivation to join our lab, and relevant experience.  
 2. A CV detailing your academic background, publications (if any), and programming experience.  
 3. Academic transcripts (unofficial transcripts acceptable).
 
-**Important**: As we receive many generic emails, please make sure to use this title and include the above documents.  
-We encourage you to read the Abstract of the following three papers to see if your interests align with ours:
-[Yoshiji et al. *Nature Genetics* 2025](https://www.nature.com/articles/s41588-024-02052-7), [Su et al. *medRxiv* 2024](https://www.medrxiv.org/content/10.1101/2024.10.17.24315553v2), [Yoshiji et al. *Nature Metabolism* 2023](https://www.nature.com/articles/s42255-023-00742-w)
-No need to do in-depth reading.
+Note: We switched to Google Form for applications/inquiries. Thank you for your understanding!
 
 ---
 
