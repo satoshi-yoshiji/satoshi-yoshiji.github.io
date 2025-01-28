@@ -6,6 +6,7 @@ author_profile: true
 ---
 We have fully-funded openings: **1–2 MSc**, **1 PhD**, and **1 Post-doctoral fellow**.  
 Motivated students and graduates from diverse backgrounds are encouraged to apply!
+Important: For job applications and inquiries, please use the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSd7llWjiV6vUHBC8H7pyDQuNf2SJ1pmkJiI4Xk6m3xDEWTpvw/viewform?usp=header) instead of sending an email. We will carefully review all submissions. Thank you for your understanding and support in streamlining this process!  
 
 The standard start date for **MSc/PhD** students is **Fall 2025 (Sept 2025)** or **Winter 2026 (Jan 2026)**, and the start date for the **post-doctoral fellow** is flexible. 
 
@@ -66,7 +67,7 @@ You will lead and publish projects aligned with the lab’s key research interes
 - **Post-doctoral position**:  
   - Start date flexible. We encourage all motivated candidates to apply.
 
-- **MSc/PhD positions**:  
+- **MSc/PhD positions**: m
   - Start date will depend on applicant’s status due to McGill deadlines [https://www.mcgill.ca/gps/students/registration/graduating/deadlines](https://www.mcgill.ca/gps/students/registration/graduating/deadlines)  
   - **Fall 2025**: The candidate will be either  
     - Canadian citizen/PR holder **OR**  
