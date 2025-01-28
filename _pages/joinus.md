@@ -98,7 +98,7 @@ You will lead and publish projects aligned with the lab’s key research interes
 
 ---
 
-## How to Apply/Inquire
+## How to Apply
 
 **Interested?
 We encourage you to take a look at the following three papers to see if your interests align with ours:
@@ -111,7 +111,7 @@ In the form, we request a combined PDF of the following three documents:
 2. A CV detailing your academic background, publications (if any), and programming experience.  
 3. Academic transcripts (unofficial transcripts acceptable).
 
-Note: We switched to Google Form for applications/inquiries to better know you. Thank you for your understanding!
+Note: We switched to Google Form for applications. Thank you for your understanding!
 
 ---
 
