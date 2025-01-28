@@ -100,12 +100,12 @@ You will lead and publish projects aligned with the lab’s key research interes
 
 ## How to Apply
 
-**Interested?
+**Interested?**  
 We encourage you to take a look at the following three papers to see if your interests align with ours:
 [Yoshiji et al. *Nature Genetics* 2025](https://www.nature.com/articles/s41588-024-02052-7), [Su et al. *medRxiv* 2024](https://www.medrxiv.org/content/10.1101/2024.10.17.24315553v2), [Yoshiji et al. *Nature Metabolism* 2023](https://www.nature.com/articles/s42255-023-00742-w)
 
-Please fill in the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd7llWjiV6vUHBC8H7pyDQuNf2SJ1pmkJiI4Xk6m3xDEWTpvw/viewform?usp=header)
-Note: We do not track your gmail address you use for filling out the form.
+Please fill in the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd7llWjiV6vUHBC8H7pyDQuNf2SJ1pmkJiI4Xk6m3xDEWTpvw/viewform?usp=header)  
+Note: We do not track your gmail address you use for filling out the form.  
 
 In the form, we request a combined PDF of the following three documents:
 1. A cover letter (11-point, one-page max) describing your research interests, motivation to join our lab, and relevant experience.  
