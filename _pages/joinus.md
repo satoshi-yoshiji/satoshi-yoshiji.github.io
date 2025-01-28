@@ -98,7 +98,7 @@ You will lead and publish projects aligned with the lab’s key research interes
 
 ---
 
-## How to Apply
+## How to Apply/Inquire
 
 **Interested?**  
 We encourage you to take a look at the following three papers to see if your interests align with ours:
