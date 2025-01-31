@@ -8,7 +8,7 @@ We have fully-funded openings: **1–2 MSc**, **1 PhD**, and **1 Post-doctoral f
 Highly motivated candidates with strong quantitative skills and a background in the life sciences are encouraged to apply!  
 
 **Important**: For job applications and inquiries, please use the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSd7llWjiV6vUHBC8H7pyDQuNf2SJ1pmkJiI4Xk6m3xDEWTpvw/viewform?usp=header) instead of sending an email. We will carefully review all submissions.  
-If you have sent and email but not form yet, please fill out the form. Thank you for your understanding and support in streamlining this process!  ¬
+If you have sent and email but not form yet, please fill out the form. Thank you for your understanding and support in streamlining this process!  
 
 The standard start date for **MSc/PhD** students is **Fall 2025 (Sept 2025)** or **Winter 2026 (Jan 2026)**, and the start date for the **post-doctoral fellow** is flexible. 
 
@@ -18,7 +18,7 @@ We are also looking for bioinformaticians, who can support us building and analy
 
 ## About McGill
 
-McGill University in Montreal, Canada,  ranks among the top 30 universities in the [**QS World University Rankings 2025**](https://www.topuniversities.com/universities/mcgill-university). Montreal ranks **#1 among the [QS Best Student Cities in North America**](https://www.topuniversities.com/city-rankings?region=North%20America] and (**#10 globally**)[https://www.topuniversities.com/best-student-cities).
+McGill University in Montreal, Canada,  ranks among the top 30 universities in the [**QS World University Rankings 2025**](https://www.topuniversities.com/universities/mcgill-university). Montreal ranks **#1 among the [QS Best Student Cities in North America**](https://www.topuniversities.com/city-rankings?region=North%20America) and (**#10 globally**)[https://www.topuniversities.com/best-student-cities).
 
 ---
 
