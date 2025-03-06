@@ -22,7 +22,7 @@ redirect_from:
 The PI is also affiliated with [McGill’s Quantitative Life Sciences Program](https://www.mcgill.ca/qls/satoshi-yoshiji/). He holds a visiting scholar position at [the Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), and [the Mass General Brigham Research Institute](https://cgm.massgeneral.org/).
 
 **News**:<br />
-March 2025.
+March 2025.  
 Masashi Hasebe, a PhD student in our lab, has been awarded a $45,000 CAD (4,656,000 JPY) scholarship from JASSO. More details available [here](https://www.jasso.go.jp/about/press/jp2025030602.html) (Japanese only). Congratulations, Masashi!
 
 Jan 2025.  
