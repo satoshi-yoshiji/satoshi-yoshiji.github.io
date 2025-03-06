@@ -23,7 +23,7 @@ The PI is also affiliated with [McGill’s Quantitative Life Sciences Program](h
 
 **News**:<br />
 March 2025.  
-Masashi Hasebe, a PhD student in our lab, has been awarded a $45,000 CAD (4,656,000 JPY) scholarship from JASSO. More details available [here](https://www.jasso.go.jp/about/press/jp2025030602.html) (Japanese only). Congratulations, Masashi!
+Masashi Hasebe, a PhD student in our lab, has been awarded a JASSO doctoral scholarship ($45K CAD/year (4,656,000 JPY), totaling $135K CAD over 3 years) More details available [here](https://www.jasso.go.jp/about/press/jp2025030602.html) (Japanese only). Congratulations, Masashi!
 
 Jan 2025.  
 • We have fully funded openings for 1–2 MSc students, 1 PhD student, and 1 postdoctoral fellow. Highly motivated candidates with strong quantitative skills and a background in the life sciences are encouraged to apply!  
