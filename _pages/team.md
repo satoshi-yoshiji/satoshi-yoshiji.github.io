@@ -43,7 +43,7 @@ She is interested in using computational approaches to address questions in huma
 In her free time, she enjoys making art, reading and discovering new spots in Montreal.<br />
 ![profile_photo_maya_akerman](profile_maya_akerman.png)
 
-Alumni
+Alumni<br />
 **Eloi Gagnon**<br />
-PhD intern<br />
+PhD intern in 2024<br />
 
