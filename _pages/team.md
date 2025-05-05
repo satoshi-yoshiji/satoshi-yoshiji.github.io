@@ -41,7 +41,7 @@ Maya is a third-year undergraduate student completing her BSc in Biology with a 
 This summer, she is undertaking a research internship under the supervision of Satoshi Yoshiji, focusing on leveraging multi-omics data to identify causal proteins and potential therapeutic targets for osteoporosis.<br />
 She is interested in using computational approaches to address questions in human health and medicine, and hopes to pursue a career in the biotech or pharmaceutical industry.<br />
 In her free time, she enjoys making art, reading and discovering new spots in Montreal.<br />
-
+![profile_photo_maya_akerman](profile_maya_akerman.png)
 
 Alumni
 **Eloi Gagnon**<br />
