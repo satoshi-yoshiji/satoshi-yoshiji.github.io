@@ -46,4 +46,4 @@ In her free time, she enjoys making art, reading and discovering new spots in Mo
 Alumni<br />
 **Eloi Gagnon**<br />
 PhD intern in 2024<br />
-![profile_photo_eloi_gagnon](profile_eloi_gagnon.png.png)¬
+![profile_photo_eloi_gagnon](profile_eloi_gagnon.png)
