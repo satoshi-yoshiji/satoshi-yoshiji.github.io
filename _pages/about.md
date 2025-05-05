@@ -22,6 +22,9 @@ redirect_from:
 The PI is also affiliated with [McGill’s Quantitative Life Sciences Program](https://www.mcgill.ca/qls/satoshi-yoshiji/). He holds a visiting scholar position at [the Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), and [the Mass General Brigham Research Institute](https://cgm.massgeneral.org/).
 
 **News**:<br />
+May 2025.
+Maya Akerman, an undergraduate intern, has joined our lab. Welcome, Maya!
+
 March 2025.  
 Masashi Hasebe, a PhD student in our lab, has been awarded a JASSO doctoral scholarship ($45K CAD/year (4,656,000 JPY), totaling $135K CAD over 3 years) More details available [here](https://www.jasso.go.jp/about/press/jp2025030602.html) (Japanese only). Congratulations, Masashi!
 
