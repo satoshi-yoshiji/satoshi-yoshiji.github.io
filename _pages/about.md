@@ -22,6 +22,9 @@ redirect_from:
 The PI is also affiliated with [McGill’s Quantitative Life Sciences Program](https://www.mcgill.ca/qls/satoshi-yoshiji/). He holds a visiting scholar position at [the Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), and [the Mass General Brigham Research Institute](https://cgm.massgeneral.org/).
 
 **News**:<br />
+July 2025.  
+Yefeng Yang, a PhD student in our lab, has been selected as a finalist for the Trainee Research Award in Basic Science by the Canadian Cardiovascular Society. Congrats, Yefeng!
+
 June 2025.  
 Satoshi Yoshiji won a Young Investigator's Award at the Japan Endocrine Society Annual Meeting.  
 Satoshi Yoshiji had an interview with Frontline Genomics. Transcripts and recordings are available [here](https://frontlinegenomics.com/satoshi-yoshiji/).
