@@ -23,7 +23,8 @@ The PI is also affiliated with [McGill’s Quantitative Life Sciences Program](h
 
 **News**:<br />
 July 2025.  
-Yefeng Yang, a PhD student in our lab, has been selected as a finalist for the Trainee Research Award in Basic Science by the Canadian Cardiovascular Society. Congrats, Yefeng!
+Yefeng Yang and Chen-Yang Su, PhD students in our lab, have been selected as finalists for the Trainee Research Award in Basic Science by the Canadian Cardiovascular Society.  
+There are only four finalists, so this is a great achievement. Congratulations to both!  
 
 June 2025.  
 Satoshi Yoshiji won a Young Investigator's Award at the Japan Endocrine Society Annual Meeting.  
