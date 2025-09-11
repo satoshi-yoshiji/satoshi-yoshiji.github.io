@@ -26,6 +26,12 @@ Sep 2025.
 We welcomed new members to the lab: Urvashi Singh, Megan Tsao, Yefeng Yang, and Leighton Smith. Welcome!  
 Urvashi Singh has received the Lloyd Carr-Harris Fellowship from the Faculty of Medicine and Health Sciences. Congratulations, Urvashi!  
 
+Our paper about nationwide analysis of monogenic diabetes has been published in the Journal of Clinical Endocrinology & Metabolism!  
+Yoshiji, S., Masebe, M., et al. Genetic and Clinical Characteristics of Monogenic Diabetes in Japan: A Nationwide Study by the Japan Diabetes Society, The Journal of Clinical Endocrinology & Metabolism, 2025;, dgaf478, [https://doi.org/10.1210/clinem/dgaf478](https://doi.org/10.1210/clinem/dgaf478)  
+
+Our paper about cardiovascular risk reduction with GLP-1 receptor agonists has been published in Diabetes, Obesity and Metabolism!  
+Hasebe, M. et al. Cardiovascular risk reduction with glucagon-like peptide-1 receptor agonists is proportional to HbA1c lowering in type 2 diabetes: An updated meta-regression analysis incorporating FLOW and SOUL trials. Diabetes Obes Metab (2025). [https://doi.org/10.1111/dom.70121](https://doi.org/10.1111/dom.70121)  
+
 July 2025.  
 Yefeng Yang and Chen-Yang Su, PhD students in our lab, have been selected as finalists for the Trainee Research Award in Basic Science by the Canadian Cardiovascular Society.  
 There are only four finalists, so this is a great achievement. Congratulations to both!  
