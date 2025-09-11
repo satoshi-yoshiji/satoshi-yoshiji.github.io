@@ -22,6 +22,10 @@ redirect_from:
 The PI is also affiliated with [McGill’s Quantitative Life Sciences Program](https://www.mcgill.ca/qls/satoshi-yoshiji/). He holds a visiting scholar position at [the Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), and [the Mass General Brigham Research Institute](https://cgm.massgeneral.org/).
 
 **News**:<br />
+Sep 2025.  
+We welcomed new members to the lab: Urvashi Singh, Megan Tsao, Yefeng Yang, and Leighton Smith. Welcome!  
+Urvashi Singh has received the Lloyd Carr-Harris Fellowship from the Faculty of Medicine and Health Sciences. Congratulations, Urvashi!  
+
 July 2025.  
 Yefeng Yang and Chen-Yang Su, PhD students in our lab, have been selected as finalists for the Trainee Research Award in Basic Science by the Canadian Cardiovascular Society.  
 There are only four finalists, so this is a great achievement. Congratulations to both!  
