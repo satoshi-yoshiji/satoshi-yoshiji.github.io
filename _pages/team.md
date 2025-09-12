@@ -35,6 +35,20 @@ He holds a Master’s degree in Biostatistics from Emory University and a Bachel
 His research focuses on multi-omics data analysis to explore connections between proteomics and phenotypic traits. Outside of academics, Yefeng enjoys playing basketball, badminton, and working out at the gym.<br />
 ![profile_photo_yefeng_yang](profile_yefeng_yang.png)
 
+**Megan Tsao, MSc**<br />
+Hsuan (Megan) Tsao is a PhD student under the supervision of Dr. Satoshi Yoshiji in Human Genetics at McGill University.  
+She obtained her M.Sc. in Human Genetics at McGill University and her B.Sc. in Human Biology & Sociology at the University of Toronto. With interdisciplinary training and experience in basic science, clinical research, and the pharmaceutical industry, she is passionate about using multi-omics approach to dissect genotype–phenotype relationships in complex diseases across diverse ancestries, aiming to drive translational impact and advancing health equity.  
+![profile_photo_megan_tsao](profile_megan_tsao.jpg)
+
+**Urvashi Singh**<br />
+Coming soon!
+
+**Leighton Smith, BSc**<br />
+Leighton Smith is an MSc student in the Department of Human Genetics at McGill University supervised by Dr. Yoshiji.  
+He graduated from McGill in 2024 with a BSc in Honours in Immunology. His research will involve the analysis of genomic data to identify potential drug targets in complex diseases.  
+In his spare time he enjoys playing sports and programming video games.  
+![profile_photo_leighton_smith](profile_leighton_smith.jpg)
+
 **Maya Akerman**<br />
 Undergraduate intern<br />
 Maya is a third-year undergraduate student completing her BSc in Biology with a minor in Computer Science at McGill University.<br />
