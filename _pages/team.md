@@ -38,7 +38,7 @@ His research focuses on multi-omics data analysis to explore connections between
 **Megan Tsao, MSc**<br />
 Hsuan (Megan) Tsao is a PhD student under the supervision of Dr. Satoshi Yoshiji in Human Genetics at McGill University.  
 She obtained her M.Sc. in Human Genetics at McGill University and her B.Sc. in Human Biology & Sociology at the University of Toronto. With interdisciplinary training and experience in basic science, clinical research, and the pharmaceutical industry, she is passionate about using multi-omics approach to dissect genotype–phenotype relationships in complex diseases across diverse ancestries, aiming to drive translational impact and advancing health equity.  
-![profile_photo_megan_tsao](profile_megan_tsao.jpg)
+![profile_photo_megan_tsao](profile_megan_tsao.png)
 
 **Urvashi Singh**<br />
 Coming soon!
@@ -47,7 +47,7 @@ Coming soon!
 Leighton Smith is an MSc student in the Department of Human Genetics at McGill University supervised by Dr. Yoshiji.  
 He graduated from McGill in 2024 with a BSc in Honours in Immunology. His research will involve the analysis of genomic data to identify potential drug targets in complex diseases.  
 In his spare time he enjoys playing sports and programming video games.  
-![profile_photo_leighton_smith](profile_leighton_smith.jpg)
+![profile_photo_leighton_smith](profile_leighton_smith.png)
 
 **Maya Akerman**<br />
 Undergraduate intern<br />
