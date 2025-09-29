@@ -41,7 +41,11 @@ She obtained her M.Sc. in Human Genetics at McGill University and her B.Sc. in H
 ![profile_photo_megan_tsao](profile_megan_tsao.png)
 
 **Urvashi Singh**<br />
-Coming soon!
+Urvashi Singh is a PhD student in Human Genetics at McGill, supervised by Dr. Satoshi Yoshiji and Dr. Sirui Zhou. She completed her BSc in Microbiology and Immunology from McGill.  
+Prior to her PhD, she spent nearly three years working as a bioinformatician and statistical genetics scientist at 5 Prime Sciences, where she led and supported research programs that utilize human genetics evidence to accelerate drug development.  
+Her research bridges genetics, causal inference, and multi-omics to understand the genetic architecture of complex traits to improve drug target identification and validation. She is a passionate advocate for healthcare accessibility and equity, and wants to extend these principles to her work in statistical genetics research. Outside of science, she is a percussionist, loves painting, hiking, and working out.
+![profile_photo_urvashi_singh](profile_urvashi_singh.png)
+
 
 **Leighton Smith, BSc**<br />
 Leighton Smith is an MSc student in the Department of Human Genetics at McGill University supervised by Dr. Yoshiji.  
