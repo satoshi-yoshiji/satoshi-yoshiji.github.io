@@ -22,6 +22,24 @@ redirect_from:
 The PI is also affiliated with [McGill’s Quantitative Life Sciences Program](https://www.mcgill.ca/qls/satoshi-yoshiji/). He holds a visiting scholar position at [the Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), and [the Mass General Brigham Research Institute](https://cgm.massgeneral.org/).
 
 **News**:<br />
+Oct 2025.
+Our collaboration paper has been published in Nature Communications!  
+The effect of type 2 diabetes genetic predisposition on non-cardiovascular comorbidities  
+Ana Luiza Arruda, Ozvan Bocher, Henry J Taylor, Davis Cammann, Satoshi Yoshiji, Xianyong Yin, Chi Zhao, Jingchun Chen, Alexis C Wood, Ken Suzuki, Josep M Mercader, Cassandra N Spracklen, James B Meigs, Marijana Vujkovic, George Davey Smith, Jerome I Rotter, Benjamin F Voight, Andrew P Morris, Eleftheria Zeggini  
+The effect of type 2 diabetes genetic predisposition on non-cardiovascular comorbidities. [Nat Commun 16, 9042 (2025).](https://doi.org/10.1038/s41467-025-64927-5)   
+
+Our review and primer on proteomic and proteogenomic studies in osteoporosis has been published at Current Osteoporosis Reports!  
+Hasebe, M., Su, CY., Kiel, D.P., Yoshiji, S. Leveraging Proteomics and Proteogenomics for Understanding Osteoporosis and Other Musculoskeletal Diseases. [Curr Osteoporos Rep 23, 43 (2025).](https://doi.org/10.1007/s11914-025-00941-2)  
+
+Our commentary on data-driven MODY panel has been published in Diabetes!
+Satoshi Yoshiji, Daisuke Tanaka; Toward Data-Driven MODY Panels: Strong Evidence for NEUROD1 and PDX1, Limited Support for APPL1 and WFS1. [Diabetes 20 October 2025; 74 (11): 1903–1905.](https://doi.org/10.2337/dbi25-0040)  
+
+Masashi Hasebe, Chen-Yang Su, and Satoshi Yoshiji gave presentations at the American Society of Human Genetics in Boston. Satoshi won Reviewers' Choice Award.  
+
+Yefeng Yang and Chen-Yang Su gave oral presentations at Canadian Cardiovascular Society Meeting as Trainee Awards Finalists in Quebec City. Congratulations!  
+
+Chen-Yang Su has been selected as the top 5 winners for the CMDO contest for the Canadian Obesity Summit 2026 in Montreal next March. Congratulations!  
+
 Sep 2025.  
 We welcomed new members to the lab: Urvashi Singh, Megan Tsao, Yefeng Yang, and Leighton Smith. Welcome!  
 Urvashi Singh has received the Lloyd Carr-Harris Fellowship from the Faculty of Medicine and Health Sciences. Congratulations, Urvashi!  
