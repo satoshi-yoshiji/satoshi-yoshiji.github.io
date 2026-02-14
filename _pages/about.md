@@ -28,13 +28,12 @@ The PI is also affiliated with [McGill’s Quantitative Life Sciences Program](h
 ![2.nephronectin_NatMetab2023](2.nephronectin_NatMetab2023.png)  
 [Yoshiji et al. *Nat Metab* 2023.](https://www.nature.com/articles/s42255-023-00742-w)  
   
-![3.T2DGGI_NatMetab2026](3.T2DGGI_NatMetab2026.png)  
-[Bocher\*, Arruda\*, Yoshiji\*, Zhao\*, et al. *Nat Metab* 2026.](https://www.nature.com/articles/s42255-025-01444-1)  
-  
 ![4.Su_medrxiv2024](4.Su_medrxiv2024.png)  
 [Su, ...Yoshiji et al. *medRxiv* 2024.](https://www.medrxiv.org/content/10.1101/2024.10.17.24315553v2)  
   
-
+![3.T2DGGI_NatMetab2026](3.T2DGGI_NatMetab2026.png)  
+[Bocher\*, Arruda\*, Yoshiji\*, Zhao\*, et al. *Nat Metab* 2026.](https://www.nature.com/articles/s42255-025-01444-1)  
+  
 **News**:<br />
 
 Jan 2026.  
