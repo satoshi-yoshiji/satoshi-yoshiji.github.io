@@ -22,7 +22,25 @@ redirect_from:
 The PI is also affiliated with [McGill’s Quantitative Life Sciences Program](https://www.mcgill.ca/qls/satoshi-yoshiji/). He holds a visiting scholar position at [the Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), and [the Mass General Brigham Research Institute](https://cgm.massgeneral.org/).
 
 **News**:<br />
-Oct 2025.
+
+Jan 2026.  
+Our collaboration paper has been published in Nature Metabolism!  
+[https://www.nature.com/articles/s42255-025-01444-1](https://www.nature.com/articles/s42255-025-01444-1)
+
+Our collaboration study's preprint is out!  
+A resource of “bottom-line” variant associations for 1,281 complex traits by integrating data across published genome-wide association studies  
+[https://pmc.ncbi.nlm.nih.gov/articles/PMC12869677/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12869677/)  
+
+Dec 2025.  
+Our paper has been published in Diabetes, Obesity and Metabolism. Congratulations, Masashi!  
+Cardiovascular risk reduction with glucagon-like peptide-1 receptor agonists is proportional to HbA1c lowering in type 2 diabetes: An updated meta-regression analysis incorporating FLOW and SOUL trials  
+[Diabetes Obes Metab (2025).](https://pubmed.ncbi.nlm.nih.gov/40926380/)
+
+Our preprint is out! Chen-Yang Su and Maya Akerman, an undergraduate intern, played a critical role. Congratulations!  
+Proteome-wide Mendelian randomization implicates TIMP2 as a putative causal protein for bone mineral density and fracture risk  
+[medRxiv (2025).](https://www.medrxiv.org/content/10.64898/2025.11.28.25341226v1)
+
+Oct 2025.  
 Our collaboration paper has been published in Nature Communications!  
 The effect of type 2 diabetes genetic predisposition on non-cardiovascular comorbidities  
 Ana Luiza Arruda, Ozvan Bocher, Henry J Taylor, Davis Cammann, Satoshi Yoshiji, Xianyong Yin, Chi Zhao, Jingchun Chen, Alexis C Wood, Ken Suzuki, Josep M Mercader, Cassandra N Spracklen, James B Meigs, Marijana Vujkovic, George Davey Smith, Jerome I Rotter, Benjamin F Voight, Andrew P Morris, Eleftheria Zeggini  
