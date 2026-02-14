@@ -5,11 +5,15 @@ permalink: /joinus/
 author_profile: true
 ---
 **Updated on February 14, 2026**
-We have closed applications for the 2026 Fall PhD/MSc intake. Thank you very much for your interest!  
-We have an opening for one fully funded post-doctoral fellow or bioinformatician.  
-Highly motivated candidates with strong quantitative skills (R, Python, Bash) and a background in the life sciences are encouraged to apply.  
+• 2026 Fall PhD/MSc application  
+We have closed general applications for the 2026 Fall PhD/MSc intake. Thank you very much for your interest!  
+For exceptional candidates, we will consider additional intake on a case-by-case basis.  
+
+• Post-doc/research fellow  
+We have an opening for one fully funded post-doctoral fellow or research fellow.  
+Highly motivated candidates with PhD/MD, strong quantitative skills (R, Python, Bash) and a background in the life sciences are encouraged to apply.  
 Experience with biobank-scale analysis (e.g., UK Biobank) is a strong asset.  
-More details will follow.  
+For international applicants, an external scholarship is an asset but not required.
 
 The content below is legacy information for reference only.
 
@@ -85,8 +89,8 @@ You will lead and publish projects aligned with the lab’s key research interes
 - Strong English communication skills (spoken and written)  
 - Intermediate/working proficiency in R or Python (e.g., computational/data-focused project experience)  
 - Basic familiarity with Linux (e.g., basic handling of files)  
-- Basic understanding of biology (e.g., what are DNA, RNA, proteins?)  
-- Strong record keeping  
+- Basic understanding of biology (e.g., the roles of DNA, RNA, and proteins)  
+- Strong record-keeping  
 - Strong teamwork and ability to work independently  
 - For **MSc/PhD**: cGPA ≥ 3.2 (preferably ≥ 3.5). Exceptions possible on a case-by-case basis  
 - For **Post-doc**: No GPA threshold, but at least one first-author, peer-reviewed paper is required  
@@ -106,11 +110,11 @@ You will lead and publish projects aligned with the lab’s key research interes
 We encourage you to take a look at the following three papers to see if your interests align with ours:
 [Yoshiji et al. *Nature Genetics* 2025](https://www.nature.com/articles/s41588-024-02052-7), [Su et al. *medRxiv* 2024](https://www.medrxiv.org/content/10.1101/2024.10.17.24315553v2), [Yoshiji et al. *Nature Metabolism* 2023](https://www.nature.com/articles/s42255-023-00742-w)
 
-Please fill in the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd7llWjiV6vUHBC8H7pyDQuNf2SJ1pmkJiI4Xk6m3xDEWTpvw/viewform?usp=header)  
-Note: We do not track the Gmail address you use for filling out the form.  
+Please complete the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd7llWjiV6vUHBC8H7pyDQuNf2SJ1pmkJiI4Xk6m3xDEWTpvw/viewform?usp=header)  
+Note: We do not track the Gmail address you use to complete the form.  
 
 In the form, we request a combined PDF of the following three documents:
-1. A cover letter (11-point or larger, one-page max) describing your research interests, motivation to join our lab, and relevant experience.  
+1. A cover letter (11-point or larger, one page maximum) describing your research interests, motivation to join our lab, and relevant experience.  
 2. A CV detailing your academic background, publications (if applicable), and experience with quantitative analyses and programming.  
 3. Academic transcripts (unofficial transcripts acceptable).
 
@@ -127,14 +131,14 @@ We may close applications once positions are filled, so early submissions/inquir
 
 ## Stipend/Salaries and Benefits
 
-- For **MSc/PhD** positions, they are outlined here:  
+- For **MSc/PhD** positions, stipend information is outlined here:  
   [https://www.mcgill.ca/ipn/finance-current-students/stipend-funding-2025-2026](https://www.mcgill.ca/ipn/finance-current-students/stipend-funding-2025-2026)
 
-- For **Post-doctoral** positions, they are outlined here:  
+- For **Post-doctoral** positions, salary information is outlined here:  
   [https://www.mcgill.ca/gps/staff/postdocs/financial-support](https://www.mcgill.ca/gps/staff/postdocs/financial-support)
 
 - **Top-up** will be arranged as per CERC’s policy.  
-- For leave of absence & vacation policy, please see:  
+- For leave of absence and vacation policy, please see:  
   [https://www.mcgill.ca/gps/students/registration/progress/leave-vacation](https://www.mcgill.ca/gps/students/registration/progress/leave-vacation)
 
 ---
@@ -155,7 +159,7 @@ We provide full tuition and stipend support for graduate students and salary sup
 
 - **CIHR doctoral award** (for Canadian citizens/PR holders):  
   [https://cihr-irsc.gc.ca/e/38887.html](https://cihr-irsc.gc.ca/e/38887.html)  
-  - \$40,000 / year for three years.  
+  - \$40,000/year for three years.  
   (Source: [https://cihr-irsc.gc.ca/e/53988.html](https://cihr-irsc.gc.ca/e/53988.html))  
   - Top-up will be arranged as per CERC’s policy.
 
@@ -170,7 +174,7 @@ We provide full tuition and stipend support for graduate students and salary sup
   (see [https://cihr-irsc.gc.ca/e/53988.html](https://cihr-irsc.gc.ca/e/53988.html))  
   - Top-up will be arranged as per CERC policy (as of January 2025: an additional \$15,000 CAD top-up for FRQS awardees).
 
-### Tuition-Waiver for International Students
+### Tuition Waiver for International Students
 
 - Applying is encouraged as it strengthens your CV; even if you do not obtain an award, we will support your tuition. Details:  
   [https://www.mcgill.ca/gps/funding/intl/dfw](https://www.mcgill.ca/gps/funding/intl/dfw)
