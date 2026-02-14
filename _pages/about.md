@@ -11,7 +11,9 @@ redirect_from:
 
 **Our research focus**: Our lab focuses on three main pillars:
 1. Large-scale human genetics and multi-omics analysis for drug target discovery: We use genomics, proteomics, and other omics in combination with genetic epidemiology methods to understand the underlying mechanisms of diabetes, obesity, and cardiovascular diseases, and to identify potential drug targets.
-![omics](image_omics.png)
+![omics](image_omics.png)  
+![natgenet2025](natgenet2025.png)
+![omics](image_omics.png)  
 2. Building and analyzing [BioPortal](https://www.mcgill.ca/bioportal/): We are creating and analyzing a new multi-ancestry, multi-omics biobank of 12,500 individuals in Montreal to accelerate drug development and advance precision medicine.
 ![bioportal](image_bioportal.png)
 3. Disentangling the heterogeneity of diabetes and complex diseases: We dissect the genetic heterogeneity of diabetes and complex traits to understand their distinctive biology, identify drug targets, and ultimately promote precision medicine.
@@ -99,7 +101,6 @@ We explored whether plasma proteins mediate the effect of obesity on coronary ar
 Using two-step proteome-wide MR, domain-aware MR, epigenomics, and scRNA-seq, we identified endotrophin as a mediator and potential therapeutic target.  
 Satoshi Yoshiji, Tianyuan Lu, Guillaume Butler-Laporte, Julia Carrasco-Zanini-Sanchez, Chen-Yang Su, Yiheng Chen, Kevin Liang, Julian Daniel Sunday Willett, Shidong Wang, Darin Adra, Yann Ilboudo, Takayoshi Sasako, Satoshi Koyama, Tetsushi Nakao, Vincenzo Forgetta, Yossi Farjoun, Hugo Zeberg, Sirui Zhou, Michael Marks-Hultström, Mitchell J. Machiela, Rama Kaalia, Hesam Dashti, Melina Claussnitzer, Jason Flannick, and J. Brent Richards. Integrative proteogenomic analysis identifies COL6A3-derived endotrophin as a mediator of the effect of obesity on coronary artery disease. *Nat Genet* (2025).  
 [Nat Genet (2025).](https://doi.org/10.1038/s41588-024-02052-7)  
-![natgenet2025](natgenet2025.png)
 
 • Yefeng Yang, a PhD student from [the McGill QLS program](https://www.mcgill.ca/qls/) has joined the lab as a rotation student. Welcome, Yefeng!
 
