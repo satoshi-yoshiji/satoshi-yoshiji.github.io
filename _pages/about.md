@@ -13,7 +13,6 @@ redirect_from:
 1. Large-scale human genetics and multi-omics analysis for drug target discovery: We use genomics, proteomics, and other omics in combination with genetic epidemiology methods to understand the underlying mechanisms of diabetes, obesity, and cardiovascular diseases, and to identify potential drug targets.
 ![omics](image_omics.png)  
 ![natgenet2025](natgenet2025.png)
-![omics](image_omics.png)  
 2. Building and analyzing [BioPortal](https://www.mcgill.ca/bioportal/): We are creating and analyzing a new multi-ancestry, multi-omics biobank of 12,500 individuals in Montreal to accelerate drug development and advance precision medicine.
 ![bioportal](image_bioportal.png)
 3. Disentangling the heterogeneity of diabetes and complex diseases: We dissect the genetic heterogeneity of diabetes and complex traits to understand their distinctive biology, identify drug targets, and ultimately promote precision medicine.
@@ -92,6 +91,9 @@ May 2025.
 Mar 2025.  
 • Masashi Hasebe, a PhD student in our lab, has been awarded a JASSO doctoral scholarship ($45K CAD/year (4,656,000 JPY), totaling $135K CAD over 3 years) More details available [here](https://www.jasso.go.jp/about/press/jp2025030602.html) (Japanese only). Congratulations, Masashi!
 
+<details>
+<summary><strong>More</strong></summary>
+
 Jan 2025.  
 • We have fully funded openings for 1–2 MSc students, 1 PhD student, and 1 postdoctoral fellow. Highly motivated candidates with strong quantitative skills and a background in the life sciences are encouraged to apply!  
 Please visit [Join Us](https://yoshiji-lab.org/joinus/) to learn more and use the Form to apply or inquire.  
@@ -100,7 +102,7 @@ Please visit [Join Us](https://yoshiji-lab.org/joinus/) to learn more and use th
 We explored whether plasma proteins mediate the effect of obesity on coronary artery disease risk by integrating large-scale genomics, proteomics, and other omics.  
 Using two-step proteome-wide MR, domain-aware MR, epigenomics, and scRNA-seq, we identified endotrophin as a mediator and potential therapeutic target.  
 Satoshi Yoshiji, Tianyuan Lu, Guillaume Butler-Laporte, Julia Carrasco-Zanini-Sanchez, Chen-Yang Su, Yiheng Chen, Kevin Liang, Julian Daniel Sunday Willett, Shidong Wang, Darin Adra, Yann Ilboudo, Takayoshi Sasako, Satoshi Koyama, Tetsushi Nakao, Vincenzo Forgetta, Yossi Farjoun, Hugo Zeberg, Sirui Zhou, Michael Marks-Hultström, Mitchell J. Machiela, Rama Kaalia, Hesam Dashti, Melina Claussnitzer, Jason Flannick, and J. Brent Richards. Integrative proteogenomic analysis identifies COL6A3-derived endotrophin as a mediator of the effect of obesity on coronary artery disease. *Nat Genet* (2025).  
-[Nat Genet (2025).](https://doi.org/10.1038/s41588-024-02052-7)  
+[Nat Genet (2025).](https://www.nature.com/articles/s41588-024-02052-7)  
 
 • Yefeng Yang, a PhD student from [the McGill QLS program](https://www.mcgill.ca/qls/) has joined the lab as a rotation student. Welcome, Yefeng!
 
@@ -127,3 +129,5 @@ Oct 2024.
 Sep 2024.  
 • Satoshi gave a lecture at McGill QLS/CAMBAM Seminar on "Leveraging genomics, proteomics, and other omics for drug target discovery in cardiometabolic diseases and complex traits: Toward better clinical care".  
 Recording is available at [YouTube](https://youtu.be/N5BREyi7r2U?si=eCXClwXmhx9x7Dw9&t=102)
+
+</details>
