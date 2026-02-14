@@ -4,21 +4,20 @@ title: "Join Us"
 permalink: /joinus/
 author_profile: true
 ---
-We have fully-funded openings: **1–2 MSc**, **1 PhD**, and **1 Post-doctoral fellow**.  
-Highly motivated candidates with strong quantitative skills and a background in the life sciences are encouraged to apply!  
+**Updated on February 14, 2026**
+We have closed applications for the 2026 Fall PhD/MSc intake. Thank you very much for your interest!  
+We have an opening for one fully funded post-doctoral fellow or bioinformatician.  
+Highly motivated candidates with strong quantitative skills (R, Python, Bash) and a background in the life sciences are encouraged to apply.  
+Experience with biobank-scale analysis (e.g., UK Biobank) is a strong asset.  
+More details will follow.  
 
-**Important**: For job applications and inquiries, please use the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSd7llWjiV6vUHBC8H7pyDQuNf2SJ1pmkJiI4Xk6m3xDEWTpvw/viewform?usp=header) instead of sending an email. We will carefully review all submissions.  
-If you have sent an email but not the form yet, please fill out the form. Thank you for your understanding and support in streamlining this process!  
-
-The standard start date for **MSc/PhD** students is **Fall 2025 (Sept 2025)** or **Winter 2026 (Jan 2026)**, and the start date for the **post-doctoral fellow** is flexible. 
-
-We are also looking for bioinformaticians, who can support us building and analyzing a new multi-ancestry and multi-omics biobank, BioPortal. Please contact us for further information.
+The content below is legacy information for reference only.
 
 ---
 
 ## About McGill
 
-McGill University in Montreal, Canada,  ranks among the top 30 universities in the [**QS World University Rankings 2025**](https://www.topuniversities.com/universities/mcgill-university). Montreal ranks **#1 among the [QS Best Student Cities in North America**](https://www.topuniversities.com/city-rankings?region=North%20America) and [**#10 globally**](https://www.topuniversities.com/best-student-cities).
+McGill University in Montreal, Canada, ranks among the top 30 universities in the [**QS World University Rankings 2025**](https://www.topuniversities.com/universities/mcgill-university). Montreal ranks [**#1 among the QS Best Student Cities in North America**](https://www.topuniversities.com/city-rankings?region=North%20America) and [**#10 globally**](https://www.topuniversities.com/best-student-cities).
 
 ---
 
@@ -70,7 +69,7 @@ You will lead and publish projects aligned with the lab’s key research interes
   - Start date flexible. We encourage all motivated candidates to apply.
 
 - **MSc/PhD positions**: 
-  - Start date will depend on applicant’s status due to McGill deadlines [https://www.mcgill.ca/gps/students/registration/graduating/deadlines](https://www.mcgill.ca/gps/students/registration/graduating/deadlines)  
+  - Start date will depend on the applicant’s status and [McGill deadlines](https://www.mcgill.ca/gps/students/registration/graduating/deadlines).  
   - **Fall 2025**: The candidate will be either  
     - Canadian citizen/PR holder **OR**  
     - Current McGill student (both national and international students are encouraged to apply; no Canadian citizenship/PR required; deadline: February 24, 2025)  
@@ -140,18 +139,18 @@ We may close applications once positions are filled, so early submissions/inquir
 
 ---
 
-## Scholarships Opportunities
+## Scholarship Opportunities
 
-We provide full tuition and stipend support for graduate students and salary support for post-doctoral fellows. However, graduate students and post-doctoral fellows are encouraged to apply for scholarships for career development (with a top-up for FRQS awardees).
+We provide full tuition and stipend support for graduate students and salary support for post-doctoral fellows. Graduate students and post-doctoral fellows are also encouraged to apply for external scholarships for career development (with a top-up for FRQS awardees).
 
-**Representative scholarships information** (For reference only. Check original sources for details):
+**Representative scholarship information** (for reference only; please check original sources for details):
 
 ### Doctoral Awards
 
 - **FRQS Doctoral Training Scholarships** (both international and Canadian citizens/PR holders are eligible):  
   [https://frq.gouv.qc.ca/en/program/frq-doctoral-training-scholarships/](https://frq.gouv.qc.ca/en/program/frq-doctoral-training-scholarships/)  
-  - Masters: \$20,000 / year (up to 6 semesters) during the first 6 semesters of Masters.  
-  - Doctoral: \$25,000 / year (up to 12 semesters) during the first 15 semesters of PhD.  
+  - Master’s: \$20,000/year (up to 6 semesters) during the first 6 semesters of the Master’s program.  
+  - Doctoral: \$25,000/year (up to 12 semesters) during the first 15 semesters of the PhD program.  
   Source: [https://www.mcgill.ca/gps/funding/intl/provincial-agency-awards](https://www.mcgill.ca/gps/funding/intl/provincial-agency-awards)
 
 - **CIHR doctoral award** (for Canadian citizens/PR holders):  
@@ -163,24 +162,24 @@ We provide full tuition and stipend support for graduate students and salary sup
 ### Post-doctoral Award
 
 - **FRQS post-doctoral award**: Both international and Canadian citizens/PR holders are eligible  
-  - \$45,000 / year
+  - \$45,000/year
 
 - **CIHR post-doctoral award** (for Canadian citizens/PR holders):  
   [https://cihr-irsc.gc.ca/e/38887.html](https://cihr-irsc.gc.ca/e/38887.html)  
-  - \$70,000 / year  
+  - \$70,000/year  
   (see [https://cihr-irsc.gc.ca/e/53988.html](https://cihr-irsc.gc.ca/e/53988.html))  
-  - Top-up will be arranged as per CERC policy (as of January 2025, an additional 15,000 CAD top-up for FRQS awardees).
+  - Top-up will be arranged as per CERC policy (as of January 2025: an additional \$15,000 CAD top-up for FRQS awardees).
 
 ### Tuition-Waiver for International Students
 
-- Applying is encouraged since it strengthens CVs, but even if you do not obtain one, we will support your tuition. Details:  
+- Applying is encouraged as it strengthens your CV; even if you do not obtain an award, we will support your tuition. Details:  
   [https://www.mcgill.ca/gps/funding/intl/dfw](https://www.mcgill.ca/gps/funding/intl/dfw)
 
 ---
 
 ## Life in Montreal
 
-Montreal is the 2nd largest city in Canada and the #1 QS best student city in the Americas with rich diversity, quality of life, and affordability. Our lab is located in downtown campus, which sits in the heart of Montreal. Montreal is a cosmopolitan city with diverse backgrounds, and you will have no problem studying and living in English (as PI and students in the lab have been doing) in case you are wondering about practical French proficiency requirements.
+Montreal is the second-largest city in Canada and the #1 QS Best Student City in the Americas, with rich diversity, quality of life, and affordability. Our lab is located on the downtown campus, in the heart of Montreal. Montreal is a cosmopolitan city with diverse backgrounds; you will have no difficulty studying and living in English (as the PI and lab members do), if you are wondering about practical French proficiency.
 
 > **“In terms of affordability, Montreal stands out compared to major global cities like London or New York. It offers reasonable living expenses with affordable housing options, lower tuition fees, and various student discounts, making it an appealing choice for those seeking to manage their finances without compromising on their educational and living standards.”**  
 > Source: [https://www.mcgill.ca/desautels/article/bcom-program-master-management-finance-mmf-program-master-management-retailing-mmr-program-master/montreal-ranked-best-student-city-americas-and-10th-world](https://www.mcgill.ca/desautels/article/bcom-program-master-management-finance-mmf-program-master-management-retailing-mmr-program-master/montreal-ranked-best-student-city-americas-and-10th-world)
