@@ -39,54 +39,54 @@ The PI is also affiliated with [McGill’s Quantitative Life Sciences Program](h
 	
 **News**:<br />
 Jan 2026.  
-• Our collaboration paper has been published in Nature Metabolism!  
-[Nat Metab (2026).](https://www.nature.com/articles/s42255-025-01444-1)
+• Our collaboration paper has been published in *Nature Metabolism*!  
+[*Nat Metab* (2026).](https://www.nature.com/articles/s42255-025-01444-1)
 
 • Our collaboration study's preprint is out!  
 A resource of “bottom-line” variant associations for 1,281 complex traits by integrating data across published genome-wide association studies  
-[PMC (2026).](https://pmc.ncbi.nlm.nih.gov/articles/PMC12869677/)  
+[*PMC* (2026).](https://pmc.ncbi.nlm.nih.gov/articles/PMC12869677/)  
 
 Dec 2025.  
-• Our paper has been published in Diabetes, Obesity and Metabolism. Congratulations, Masashi!  
+• Our paper has been published in *Diabetes, Obesity and Metabolism*. Congratulations, Masashi!  
 Cardiovascular risk reduction with glucagon-like peptide-1 receptor agonists is proportional to HbA1c lowering in type 2 diabetes: An updated meta-regression analysis incorporating FLOW and SOUL trials  
-[Diabetes Obes Metab (2025).](https://pubmed.ncbi.nlm.nih.gov/40926380/)
+[*Diabetes Obes Metab* (2025).](https://pubmed.ncbi.nlm.nih.gov/40926380/)
 
 • Our preprint is out! Chen-Yang Su and Maya Akerman, an undergraduate intern, played a critical role. Congratulations!  
 Proteome-wide Mendelian randomization implicates TIMP2 as a putative causal protein for bone mineral density and fracture risk  
-[medRxiv (2025).](https://www.medrxiv.org/content/10.64898/2025.11.28.25341226v1)
+[*medRxiv* (2025).](https://www.medrxiv.org/content/10.64898/2025.11.28.25341226v1)
 
 Oct 2025.  
-• Our collaboration paper has been published in Nature Communications!  
+• Our collaboration paper has been published in *Nature Communications*!  
 The effect of type 2 diabetes genetic predisposition on non-cardiovascular comorbidities  
 Ana Luiza Arruda, Ozvan Bocher, Henry J Taylor, Davis Cammann, Satoshi Yoshiji, Xianyong Yin, Chi Zhao, Jingchun Chen, Alexis C Wood, Ken Suzuki, Josep M Mercader, Cassandra N Spracklen, James B Meigs, Marijana Vujkovic, George Davey Smith, Jerome I Rotter, Benjamin F Voight, Andrew P Morris, Eleftheria Zeggini  
-[Nat Commun 16, 9042 (2025).](https://doi.org/10.1038/s41467-025-64927-5)
+[*Nat Commun* 16, 9042 (2025).](https://doi.org/10.1038/s41467-025-64927-5)
 
-• Our review and primer on proteomic and proteogenomic studies in osteoporosis has been published at Current Osteoporosis Reports!  
+• Our review and primer on proteomic and proteogenomic studies in osteoporosis has been published in *Current Osteoporosis Reports*!  
 Hasebe, M., Su, CY., Kiel, D.P., Yoshiji, S. Leveraging Proteomics and Proteogenomics for Understanding Osteoporosis and Other Musculoskeletal Diseases.  
-[Curr Osteoporos Rep 23, 43 (2025).](https://doi.org/10.1007/s11914-025-00941-2)
+[*Curr Osteoporos Rep* 23, 43 (2025).](https://doi.org/10.1007/s11914-025-00941-2)
 
-• Our commentary on data-driven MODY panel has been published in Diabetes!  
+• Our commentary on data-driven MODY panel has been published in *Diabetes*!  
 Satoshi Yoshiji, Daisuke Tanaka; Toward Data-Driven MODY Panels: Strong Evidence for NEUROD1 and PDX1, Limited Support for APPL1 and WFS1.  
-[Diabetes 74 (11): 1903–1905 (2025).](https://doi.org/10.2337/dbi25-0040)
+[*Diabetes* 74 (11): 1903–1905 (2025).](https://doi.org/10.2337/dbi25-0040)
 
-• Masashi Hasebe, Chen-Yang Su, and Satoshi Yoshiji gave presentations at the American Society of Human Genetics in Boston. Satoshi won Reviewers' Choice Award.
+• Masashi Hasebe, Chen-Yang Su, and Satoshi Yoshiji gave presentations at the American Society of Human Genetics in Boston. Satoshi won the Reviewers' Choice Award.
 
 • Yefeng Yang and Chen-Yang Su gave oral presentations at Canadian Cardiovascular Society Meeting as Trainee Awards Finalists in Quebec City. Congratulations!
 
-• Chen-Yang Su has been selected as the top 5 winners for the CMDO contest for the Canadian Obesity Summit 2026 in Montreal next March. Congratulations!
+• Chen-Yang Su has been selected as one of the top 5 winners for the CMDO contest for the Canadian Obesity Summit 2026 in Montreal next March. Congratulations!
 
 Sep 2025.  
 • We welcomed new members to the lab: Urvashi Singh, Megan Tsao, Yefeng Yang, and Leighton Smith. Welcome!
 
 • Urvashi Singh has received the Lloyd Carr-Harris Fellowship from the Faculty of Medicine and Health Sciences. Congratulations, Urvashi!
 
-• Our paper about nationwide analysis of monogenic diabetes has been published in the Journal of Clinical Endocrinology & Metabolism!  
-Yoshiji, S., Hasebe, M., et al. Genetic and Clinical Characteristics of Monogenic Diabetes in Japan: A Nationwide Study by the Japan Diabetes Society, The Journal of Clinical Endocrinology & Metabolism, 2025;, dgaf478.  
-[J Clin Endocrinol Metab (2025).](https://doi.org/10.1210/clinem/dgaf478)
+• Our paper about nationwide analysis of monogenic diabetes has been published in the *Journal of Clinical Endocrinology & Metabolism*!  
+Yoshiji, S., Hasebe, M., et al. Genetic and Clinical Characteristics of Monogenic Diabetes in Japan: A Nationwide Study by the Japan Diabetes Society, *J Clin Endocrinol Metab*, 2025;, dgaf478.  
+[*J Clin Endocrinol Metab* (2025).](https://doi.org/10.1210/clinem/dgaf478)
 
-• Our paper about cardiovascular risk reduction with GLP-1 receptor agonists has been published in Diabetes, Obesity and Metabolism!  
+• Our paper about cardiovascular risk reduction with GLP-1 receptor agonists has been published in *Diabetes, Obesity and Metabolism*!  
 Hasebe, M. et al. Cardiovascular risk reduction with glucagon-like peptide-1 receptor agonists is proportional to HbA1c lowering in type 2 diabetes: An updated meta-regression analysis incorporating FLOW and SOUL trials.  
-[Diabetes Obes Metab (2025).](https://doi.org/10.1111/dom.70121)
+[*Diabetes Obes Metab* (2025).](https://doi.org/10.1111/dom.70121)
 
 Jul 2025.  
 • Yefeng Yang and Chen-Yang Su, PhD students in our lab, have been selected as finalists for the Trainee Research Award in Basic Science by the Canadian Cardiovascular Society.  
@@ -103,7 +103,7 @@ May 2025.
 • Chen-Yang Su, a PhD candidate in our lab, gave an oral presentation at the Quebec IBD Research Conference 2025.  
 
 Mar 2025.  
-• Masashi Hasebe, a PhD student in our lab, has been awarded a JASSO doctoral scholarship ($45K CAD/year (4,656,000 JPY), totaling $135K CAD over 3 years) More details available [here](https://www.jasso.go.jp/about/press/jp2025030602.html) (Japanese only). Congratulations, Masashi!
+• Masashi Hasebe, a PhD student in our lab, has been awarded a JASSO doctoral scholarship ($45K CAD/year (4,656,000 JPY), totaling $135K CAD over 3 years). More details available [here](https://www.jasso.go.jp/about/press/jp2025030602.html) (Japanese only). Congratulations, Masashi!
 
 <details markdown="1">
 <summary><strong>More</strong></summary>
@@ -112,13 +112,13 @@ Jan 2025.
 • We have fully funded openings for 1–2 MSc students, 1 PhD student, and 1 postdoctoral fellow. Highly motivated candidates with strong quantitative skills and a background in the life sciences are encouraged to apply!  
 Please visit [Join Us](https://yoshiji-lab.org/joinus/) to learn more and use the Form to apply or inquire.  
 
-• Our paper has been published in Nature Genetics!  
+• Our paper has been published in *Nature Genetics*!  
 We explored whether plasma proteins mediate the effect of obesity on coronary artery disease risk by integrating large-scale genomics, proteomics, and other omics.  
 Using two-step proteome-wide MR, domain-aware MR, epigenomics, and scRNA-seq, we identified endotrophin as a mediator and potential therapeutic target.  
 Satoshi Yoshiji, Tianyuan Lu, Guillaume Butler-Laporte, Julia Carrasco-Zanini-Sanchez, Chen-Yang Su, Yiheng Chen, Kevin Liang, Julian Daniel Sunday Willett, Shidong Wang, Darin Adra, Yann Ilboudo, Takayoshi Sasako, Satoshi Koyama, Tetsushi Nakao, Vincenzo Forgetta, Yossi Farjoun, Hugo Zeberg, Sirui Zhou, Michael Marks-Hultström, Mitchell J. Machiela, Rama Kaalia, Hesam Dashti, Melina Claussnitzer, Jason Flannick, and J. Brent Richards. Integrative proteogenomic analysis identifies COL6A3-derived endotrophin as a mediator of the effect of obesity on coronary artery disease. *Nat Genet* (2025).  
-[Nat Genet (2025).](https://www.nature.com/articles/s41588-024-02052-7)  
+[*Nat Genet* (2025).](https://www.nature.com/articles/s41588-024-02052-7)  
 
-• Yefeng Yang, a PhD student from [the McGill QLS program](https://www.mcgill.ca/qls/) has joined the lab as a rotation student. Welcome, Yefeng!
+• Yefeng Yang, a PhD student from [the McGill QLS program](https://www.mcgill.ca/qls/), has joined the lab as a rotation student. Welcome, Yefeng!
 
 Dec 2024.  
 • Satoshi gave an invited talk at Korean Society of Medical Genetics and Genomics (KSMGG) and East Asian Union of Human Genetics Society (EAUHGS) on "Using Proteomics and Genomics to Understand Complex Diseases and Identify Drug Targets"
@@ -127,7 +127,7 @@ Nov 2024.
 • Our multi-ancestry proteome-phenome-wide MR atlas work is out!  
 Multi-ancestry proteome-phenome-wide Mendelian randomization offers a comprehensive protein-disease atlas and potential therapeutic targets  
 Chen-Yang Su, Adriaan van der Graaf, Wenmin Zhang, Dong-Keun Jang, Susannah Selber-Hnatiw, Ta-Yu Yang, Guillaume Butler-Laporte, Kevin Y. H. Liang, Yiheng Chen, Fumihiko Matsuda, Maria C. Costanzo, J. Brent Richards, Noel P. Burtt, Jason Flannick, Sirui Zhou, Vincent Mooser, Tianyuan Lu, Satoshi Yoshiji. *medRxiv* 2024.10.17.24315553.  
-[medRxiv (2024).](https://doi.org/10.1101/2024.10.17.24315553)  
+[*medRxiv* (2024).](https://doi.org/10.1101/2024.10.17.24315553)  
 Interactive browser: [broad.io/protein_mr_atlas](https://broad.io/protein_mr_atlas)  
 This was made possible through the collaboration with the Knowledge Portal Team at the Broad Institute  
   
@@ -135,7 +135,7 @@ This was made possible through the collaboration with the Knowledge Portal Team 
 
 • Chen-Yang Su, a PhD student at the lab, gave oral presentations at ASHG 2024 and IGES 2024 on our multi-ancestry proteome-phenome-wide MR atlas work. He was selected as a semifinalist for Neel Award.
 
-• Satoshi's ASHG Abstract on disentangling the heterogeneity of type 2 diabetes, entitled "Novel multi-trait inference of full genome-wide associations of type 2 diabetes clusters uncovers distinctive biology and putatively causal genes",  was selected for a Reviewer's Choice.
+• Satoshi's ASHG Abstract on disentangling the heterogeneity of type 2 diabetes, entitled "Novel multi-trait inference of full genome-wide associations of type 2 diabetes clusters uncovers distinctive biology and putatively causal genes", was selected for a Reviewer's Choice.
 
 Oct 2024.  
 • Chen-Yang Su, a PhD student at the lab, gave an oral presentation at CMDO-MILA Symposium "Research in Health and AI" and received the Best Presentation Award!
