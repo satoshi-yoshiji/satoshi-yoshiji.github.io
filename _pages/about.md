@@ -13,16 +13,18 @@ redirect_from:
 1. Large-scale human genetics and multi-omics analysis for drug target discovery: We use genomics, proteomics, and other omics in combination with genetic epidemiology methods to understand the underlying mechanisms of diabetes, obesity, and cardiovascular diseases, and to identify potential drug targets.
 
 ![1.endotrophin_NatGenet2025](1.endotrophin_NatGenet2025.png)  
-Yoshiji et al. Nat Genet 2025.  
+[Yoshiji et al. Nat Genet 2025.](https://www.nature.com/articles/s41588-024-02052-7)  
+  
 ![2.nephronectin_NatMetab2023](2.nephronectin_NatMetab2023.png)  
-Yoshiji et al. Nat Metab 2023.  
+[Yoshiji et al. Nat Metab 2023.](https://www.nature.com/articles/s42255-023-00742-w)  
+  
 ![3.T2DGGI_NatMetab2026](3.T2DGGI_NatMetab2026.png)  
-Bocher*, Arruda*, Yoshiji*, Zhao*, et al. Nat Metab 2026.  
+[Bocher*, Arruda*, Yoshiji*, Zhao*, et al. Nat Metab 2026.](https://www.nature.com/articles/s42255-025-01444-1)  
+  
 ![4.Su_medrxiv2024](4.Su_medrxiv2024.png)  
-Su, ...Yoshiji et al.  medRxiv 2024.  
-
 #![omics](image_omics.png)  
-#![natgenet2025](natgenet2025.png)
+[Su, ...Yoshiji et al. medRxiv 2024.](https://www.medrxiv.org/content/10.1101/2024.10.17.24315553v2)  
+  
 
 2. Building and analyzing [BioPortal](https://www.mcgill.ca/bioportal/): We are creating and analyzing a new multi-ancestry, multi-omics biobank of 12,500 individuals in Montreal to accelerate drug development and advance precision medicine.
 ![bioportal](image_bioportal.png)
