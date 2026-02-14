@@ -21,6 +21,12 @@ Interactive browser: [https://broad.io/protein_mr_atlas](https://broad.io/protei
 *Nat Genet* 55, 44–53 (2023). [https://doi.org/10.1038/s41588-022-01270-1](https://doi.org/10.1038/s41588-022-01270-1)
 ![selectedpub4](selectedpub4.png)
 
+5. Ozvan Bocher\*, Ana Luiza Arruda\*, Satoshi Yoshiji\*, Chi Zhao\*, et al. Unravelling the molecular mechanisms causal to type 2 diabetes across global populations and disease-relevant tissues. *Nat Metab* (2026).  
+[https://doi.org/10.1038/s42255-025-01444-1](https://www.nature.com/articles/s42255-025-01444-1)
+
+6. Masashi Hasebe, Chen-Yang Su, Yamato Keidai, Hiroto Minamino, Daisuke Yabe, Nobuya Inagaki, Satoshi Yoshiji. Cardiovascular risk reduction with glucagon-like peptide-1 receptor agonists is proportional to HbA1c lowering in type 2 diabetes: An updated meta-regression analysis incorporating FLOW and SOUL trials. *Diabetes Obes Metab* 27, 7210–7220 (2025).  
+[https://doi.org/10.1111/dom.70121](https://doi.org/10.1111/dom.70121)
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find our articles on <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
 {% endif %}
