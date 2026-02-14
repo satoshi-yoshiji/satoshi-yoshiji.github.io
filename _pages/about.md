@@ -38,7 +38,6 @@ The PI is also affiliated with [McGill’s Quantitative Life Sciences Program](h
 [Hasebe et al. *Diab Obes Metab* 2025](https://dom-pubs.onlinelibrary.wiley.com/doi/full/10.1111/dom.70121)  
 	
 **News**:<br />
-
 Jan 2026.  
 • Our collaboration paper has been published in Nature Metabolism!  
 [Nat Metab (2026).](https://www.nature.com/articles/s42255-025-01444-1)
