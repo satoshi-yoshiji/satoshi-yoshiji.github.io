@@ -91,7 +91,7 @@ May 2025.
 Mar 2025.  
 • Masashi Hasebe, a PhD student in our lab, has been awarded a JASSO doctoral scholarship ($45K CAD/year (4,656,000 JPY), totaling $135K CAD over 3 years) More details available [here](https://www.jasso.go.jp/about/press/jp2025030602.html) (Japanese only). Congratulations, Masashi!
 
-<details>
+<details markdown="1">
 <summary><strong>More</strong></summary>
 
 Jan 2025.  
