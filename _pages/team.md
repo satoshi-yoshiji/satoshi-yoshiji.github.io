@@ -4,6 +4,7 @@ title: "Team"
 permalink: /team/
 author_profile: true
 ---
+![labphoto](labphoto.png)  
 
 **Satoshi Yoshiji, MD, PhD**<br />
 Principal Investigator<br />
