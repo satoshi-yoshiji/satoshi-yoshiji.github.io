@@ -8,7 +8,7 @@ We have fully-funded openings: **1–2 MSc**, **1 PhD**, and **1 Post-doctoral f
 Highly motivated candidates with strong quantitative skills and a background in the life sciences are encouraged to apply!  
 
 **Important**: For job applications and inquiries, please use the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSd7llWjiV6vUHBC8H7pyDQuNf2SJ1pmkJiI4Xk6m3xDEWTpvw/viewform?usp=header) instead of sending an email. We will carefully review all submissions.  
-If you have sent and email but not form yet, please fill out the form. Thank you for your understanding and support in streamlining this process!  
+If you have sent an email but not the form yet, please fill out the form. Thank you for your understanding and support in streamlining this process!  
 
 The standard start date for **MSc/PhD** students is **Fall 2025 (Sept 2025)** or **Winter 2026 (Jan 2026)**, and the start date for the **post-doctoral fellow** is flexible. 
 
@@ -18,7 +18,7 @@ We are also looking for bioinformaticians, who can support us building and analy
 
 ## About McGill
 
-McGill University in Montreal, Canada,  ranks among the top 30 universities in the [**QS World University Rankings 2025**](https://www.topuniversities.com/universities/mcgill-university). Montreal ranks **#1 among the [QS Best Student Cities in North America**](https://www.topuniversities.com/city-rankings?region=North%20America) and (**#10 globally**)[https://www.topuniversities.com/best-student-cities).
+McGill University in Montreal, Canada,  ranks among the top 30 universities in the [**QS World University Rankings 2025**](https://www.topuniversities.com/universities/mcgill-university). Montreal ranks **#1 among the [QS Best Student Cities in North America**](https://www.topuniversities.com/city-rankings?region=North%20America) and [**#10 globally**](https://www.topuniversities.com/best-student-cities).
 
 ---
 
@@ -78,7 +78,7 @@ You will lead and publish projects aligned with the lab’s key research interes
 
 ---
 
-## Selection Criteria for MSc/PhD/Post-docoral positions
+## Selection Criteria for MSc/PhD/Post-doctoral positions
 
 ### Essential
 
@@ -108,14 +108,14 @@ We encourage you to take a look at the following three papers to see if your int
 [Yoshiji et al. *Nature Genetics* 2025](https://www.nature.com/articles/s41588-024-02052-7), [Su et al. *medRxiv* 2024](https://www.medrxiv.org/content/10.1101/2024.10.17.24315553v2), [Yoshiji et al. *Nature Metabolism* 2023](https://www.nature.com/articles/s42255-023-00742-w)
 
 Please fill in the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd7llWjiV6vUHBC8H7pyDQuNf2SJ1pmkJiI4Xk6m3xDEWTpvw/viewform?usp=header)  
-Note: We do not track your gmail address you use for filling out the form.  
+Note: We do not track the Gmail address you use for filling out the form.  
 
 In the form, we request a combined PDF of the following three documents:
 1. A cover letter (11-point or larger, one-page max) describing your research interests, motivation to join our lab, and relevant experience.  
 2. A CV detailing your academic background, publications (if applicable), and experience with quantitative analyses and programming.  
 3. Academic transcripts (unofficial transcripts acceptable).
 
-We appreciate your patience during the selection process. If you are selected for a Zoom interview, you will hear from us no later than February 24.
+We appreciate your patience during the selection process. If you are selected for a Zoom interview, you will hear from us no later than February 24, 2025.
 
 ---
 
@@ -180,7 +180,7 @@ We provide full tuition and stipend support for graduate students and salary sup
 
 ## Life in Montreal
 
-Montreal is 2nd largest city in Canada and the #1 QS best student city in the Americas with rich diversity, quality of life, and affordability. Our lab is located in downtown campus, which sits in the heart of Montreal. Montreal is a cosmopolitan city with diverse backgrounds, and you will have no problem studying and living with English language (as PI and students in the lab have been doing) in case you are wondering about practical French proficiency requirements.
+Montreal is the 2nd largest city in Canada and the #1 QS best student city in the Americas with rich diversity, quality of life, and affordability. Our lab is located in downtown campus, which sits in the heart of Montreal. Montreal is a cosmopolitan city with diverse backgrounds, and you will have no problem studying and living in English (as PI and students in the lab have been doing) in case you are wondering about practical French proficiency requirements.
 
 > **“In terms of affordability, Montreal stands out compared to major global cities like London or New York. It offers reasonable living expenses with affordable housing options, lower tuition fees, and various student discounts, making it an appealing choice for those seeking to manage their finances without compromising on their educational and living standards.”**  
 > Source: [https://www.mcgill.ca/desautels/article/bcom-program-master-management-finance-mmf-program-master-management-retailing-mmr-program-master/montreal-ranked-best-student-city-americas-and-10th-world](https://www.mcgill.ca/desautels/article/bcom-program-master-management-finance-mmf-program-master-management-retailing-mmr-program-master/montreal-ranked-best-student-city-americas-and-10th-world)

@@ -15,7 +15,7 @@ First and foremost, I will never share your email address or any other personal 
 
 ### Log Files
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files includes:
 
 * Internet Protocol addresses (IP)
 * Types of browser

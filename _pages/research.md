@@ -6,10 +6,10 @@ author_profile: true
 ---
 **Our research focus**: Our lab focuses on three main pillars:
 
-**1. Large-scale human genetics and multi-omics analysis for drug target discovery: We use genomics, proteomics, and other omics in combination with genetic epidemiology and statistical genetics ethods to understand the underlying mechanisms of diabetes, obesity, and cardiovascular diseases, and to identify potential drug targets.** <br />
+**1. Large-scale human genetics and multi-omics analysis for drug target discovery: We use genomics, proteomics, and other omics in combination with genetic epidemiology and statistical genetics methods to understand the underlying mechanisms of diabetes, obesity, and cardiovascular diseases, and to identify potential drug targets.** <br />
 The methods we often use include genome-wide association studies (GWAS), Mendelian randomization (MR), particularly proteome-wide MR, mediation analysis, colocalization, and fine-mapping. We also use gene expression analysis at both tissue and single-cell resolution as well as traditional epidemiology analyses.<br />
 We have access to clinical, genetic, and omics data from various biobanks including 500,000 individuals in the UK Biobank, 250,000 individuals in the All of Us Research Program (a NIH-led multi-ancestry biobank), Canadian Longitudinal Study on Aging, and the Mass General Brigham Biobank (through collaboration with the Broad Institute).<br />
-Additionally, we are contributing to international GWAS consortia including Type 2 Diabetes Global Genoimics Initiative (type 2 diabetes), MAGIC (glycemic traits), CardiogramPlusC4D (coronary artery disease), GIANT (anthropometric traits), and GO3 (osteoarthritis).
+Additionally, we are contributing to international GWAS consortia including Type 2 Diabetes Global Genomics Initiative (type 2 diabetes), MAGIC (glycemic traits), CardiogramPlusC4D (coronary artery disease), GIANT (anthropometric traits), and GO3 (osteoarthritis).
 By integrating these methods and datasets, we aim to better understand cardiometabolic diseases, identify potential therapeutic targets, and ultimately improve clinical care.	
 <br />
 ![omics](image_omics.png)
@@ -31,7 +31,7 @@ We will generate the data on a rolling basis and are committed to open science, 
 • As of September 16, BioPortal has recruited more than 2,200 participants, with 50% being non-white by self-reported ethnicity, from the Department of Endocrinology, Family Medicine, ER, and Nephrology. Recruitment has also expanded to the Cardiology clinic.<br />
 • BioPortal aims to perform exome sequencing (30X), low-pass whole-genome sequencing, and imputation for all 12,500 participants.<br />
 • The project aims to measure up to 5,400 protein levels in 3,000 patients.<br />
-• We will generate the data on a rolling basis and commited to open science through data sharing with the community. <br />
+• We will generate the data on a rolling basis and are committed to open science through data sharing with the community. <br />
  <br />
 ![bioportal](image_bioportal.png)
 
