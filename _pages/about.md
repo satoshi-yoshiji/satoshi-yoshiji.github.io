@@ -40,9 +40,6 @@ Cardiovascular risk reduction with glucagon-like peptide-1 receptor agonists is 
 Proteome-wide Mendelian randomization implicates TIMP2 as a putative causal protein for bone mineral density and fracture risk  
 [medRxiv (2025).](https://www.medrxiv.org/content/10.64898/2025.11.28.25341226v1)
 
-<details>
-<summary><strong>More</strong></summary>
-
 Oct 2025.  
 • Our collaboration paper has been published in Nature Communications!  
 The effect of type 2 diabetes genetic predisposition on non-cardiovascular comorbidities  
@@ -129,5 +126,3 @@ Oct 2024.
 Sep 2024.  
 • Satoshi gave a lecture at McGill QLS/CAMBAM Seminar on "Leveraging genomics, proteomics, and other omics for drug target discovery in cardiometabolic diseases and complex traits: Toward better clinical care".  
 Recording is available at [YouTube](https://youtu.be/N5BREyi7r2U?si=eCXClwXmhx9x7Dw9&t=102)
-
-</details>
