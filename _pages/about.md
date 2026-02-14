@@ -11,19 +11,6 @@ redirect_from:
 
 **Our research focus**: Our lab focuses on three main pillars:
 1. Large-scale human genetics and multi-omics analysis for drug target discovery: We use genomics, proteomics, and other omics in combination with genetic epidemiology methods to understand the underlying mechanisms of diabetes, obesity, and cardiovascular diseases, and to identify potential drug targets.
-
-![1.endotrophin_NatGenet2025](1.endotrophin_NatGenet2025.png)  
-[Yoshiji et al. Nat Genet 2025.](https://www.nature.com/articles/s41588-024-02052-7)  
-  
-![2.nephronectin_NatMetab2023](2.nephronectin_NatMetab2023.png)  
-[Yoshiji et al. Nat Metab 2023.](https://www.nature.com/articles/s42255-023-00742-w)  
-  
-![3.T2DGGI_NatMetab2026](3.T2DGGI_NatMetab2026.png)  
-[Bocher*, Arruda*, Yoshiji*, Zhao*, et al. Nat Metab 2026.](https://www.nature.com/articles/s42255-025-01444-1)  
-  
-![4.Su_medrxiv2024](4.Su_medrxiv2024.png)  
-#![omics](image_omics.png)  
-[Su, ...Yoshiji et al. medRxiv 2024.](https://www.medrxiv.org/content/10.1101/2024.10.17.24315553v2)  
   
 
 2. Building and analyzing [BioPortal](https://www.mcgill.ca/bioportal/): We are creating and analyzing a new multi-ancestry, multi-omics biobank of 12,500 individuals in Montreal to accelerate drug development and advance precision medicine.
@@ -34,6 +21,20 @@ redirect_from:
 
 **Who we are**: We are a group of ambitious and forward-looking researchers who enjoy science. We are members of [McGill University Department of Human Genetics](https://www.mcgill.ca/humangenetics/), [McGill Genomic Medicine CERC Program](https://www.genomic-medicine-cerc.online/), and [McGill Genome Centre](https://www.mcgillgenomecentre.ca/). <br />
 The PI is also affiliated with [McGill’s Quantitative Life Sciences Program](https://www.mcgill.ca/qls/satoshi-yoshiji/). He holds a visiting scholar position at [the Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), and [the Mass General Brigham Research Institute](https://cgm.massgeneral.org/).
+
+**Selected publications**  
+![1.endotrophin_NatGenet2025](1.endotrophin_NatGenet2025.png)  
+[Yoshiji et al. *Nat Genet* 2025.](https://www.nature.com/articles/s41588-024-02052-7)  
+  
+![2.nephronectin_NatMetab2023](2.nephronectin_NatMetab2023.png)  
+[Yoshiji et al. *Nat Metab* 2023.](https://www.nature.com/articles/s42255-023-00742-w)  
+  
+![3.T2DGGI_NatMetab2026](3.T2DGGI_NatMetab2026.png)  
+[Bocher*, Arruda*, Yoshiji*, Zhao*, et al. *Nat Metab* 2026.](https://www.nature.com/articles/s42255-025-01444-1)  
+  
+![4.Su_medrxiv2024](4.Su_medrxiv2024.png)  
+[Su, ...Yoshiji et al. *medRxiv* 2024.](https://www.medrxiv.org/content/10.1101/2024.10.17.24315553v2)  
+  
 
 **News**:<br />
 
