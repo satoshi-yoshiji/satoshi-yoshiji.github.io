@@ -38,9 +38,22 @@ The PI is also affiliated with [McGill’s Quantitative Life Sciences Program](h
 [Hasebe et al. *Diab Obes Metab* 2025](https://dom-pubs.onlinelibrary.wiley.com/doi/full/10.1111/dom.70121)  
 	
 **News**:<br />
+Apr 2026.  
+• Our paper on monogenic diabetes in Japan and India has been published in *Diabetes Research and Clinical Practice*. Congratulations, Masashi!  
+Hasebe, M., Radha, V., Amutha, A., Tanaka, D., Imaizumi, T., Yabe, D., Yoshiji, S., Inagaki, N., Mohan, V. Monogenic diabetes in Japan and India: A call for broader screening.  
+[*Diabetes Res Clin Pract* (2026).](https://doi.org/10.1016/j.diabres.2026.113268)
+
+• Our paper on eGFR change and heart failure events with GLP-1 receptor agonists has been published in *Diabetes, Obesity and Metabolism*. Congratulations, Masashi!  
+Hasebe, M., Kamido, H., Su, C.-Y., Keidai, Y., Yabe, D., Yoshiji, S. Estimated Glomerular Filtration Rate Change and Heart Failure Events With GLP-1 Receptor Agonists: A Meta-Analysis and Meta-Regression of Randomised Controlled Trials.  
+[*Diabetes Obes Metab* (2026).](https://doi.org/10.1111/dom.70749)
+
+Mar 2026.  
+• Megan Tsao, Urvashi Singh, and Yefeng Yang gave oral presentations at the Canadian Obesity Summit in Montreal. Megan Tsao received the Best Oral PhD Award! Amazing job, team!
+
 Jan 2026.  
 • Our collaboration paper has been published in *Nature Metabolism*!  
-[*Nat Metab* (2026).](https://www.nature.com/articles/s42255-025-01444-1)
+Ozvan Bocher\*, Ana Luiza Arruda\*, Satoshi Yoshiji\*, Chi Zhao\*, Alicia Huerta-Chagoya, Chen-Yang Su, Xianyong Yin, Davis Cammann, Henry J Taylor, Jingchun Chen, Ken Suzuki, Ravi Mandla, Ta-Yu Yang, Fumihiko Matsuda, Josep M Mercader, Jason Flannick, James B Meigs, Alexis C Wood, Marijana Vujkovic, Benjamin F Voight, Cassandra N Spracklen, Jerome I Rotter, Andrew P Morris, Eleftheria Zeggini. Unravelling the molecular mechanisms causal to type 2 diabetes across global populations and disease-relevant tissues. (\* co-first authors)  
+[*Nat Metab* 8, 506–520 (2026).](https://www.nature.com/articles/s42255-025-01444-1)
 
 • Our collaboration study's preprint is out!  
 A resource of “bottom-line” variant associations for 1,281 complex traits by integrating data across published genome-wide association studies  
