@@ -6,28 +6,54 @@ author_profile: true
 ---
 **Updated on April 16, 2026**
 
-We have fully funded openings for **1 post-doctoral fellow** and **1 PhD student** in genetic epidemiology and multi-omics for drug target discovery. Positions are filled on a rolling basis — early inquiries are encouraged.
+We have fully funded openings for **1 post-doctoral fellow** and **1 PhD student** in computational genomics, genetic epidemiology, and large-scale multi-omics for cardiometabolic drug target discovery. Positions are filled on a rolling basis — early inquiries are encouraged.
+
+---
+
+## Your Project
+
+You will lead and publish projects in cardiometabolic diseases across multiple axes:
+
+1. **Large-scale human genetics, proteomics, and multi-omics for drug target discovery**:  
+   We combine genomics, proteomics, and other omics with genetic epidemiology to understand cardiometabolic diseases and discover therapeutic targets. You will have access to multi-omics data from more than 1 million individuals across the UK Biobank, NIH All of Us, Canadian Longitudinal Study of Aging (CLSA), CARTaGENE, and our McGill-based BioPortal.
+
+2. **Disentangling the heterogeneity of cardiometabolic diseases for precision risk stratification**:  
+   Using genomics and proteomics, we dissect the genetic heterogeneity of diabetes and complex traits to identify distinct biological pathways, therapeutic targets, and opportunities for precision medicine.
+
+3. **Analyzing a new biobank — McGill-based BioPortal**:  
+   We are creating a multi-ancestry, multi-omics biobank of 12,500 individuals in Montreal to advance drug development and precision medicine. You will analyze clinical-grade (CLIA) genomic data, proteomics (Olink HT), and electronic health records.
+
+---
+
+## Your Key Roles
+
+- Lead your project, write and publish manuscripts under the PI's supervision
+- Collaborate with lab members, other CERC members, and national/international collaborators
+- Support the lab's PhD/MSc students
+- Stay current on relevant studies and methods; actively discuss them with the PI and the team
+- Present your work at national and international conferences
+- Attend lab meetings, seminars, journal clubs, and lab events; foster a welcoming and inclusive environment
+- Work with a goal-oriented mindset and respect deadlines in a fast-paced environment
+- While this is a fully funded position, we encourage you to apply for external fellowships for career development (e.g., federal: Canada Postdoctoral Research Award; provincial: FRQS Postdoctoral Training Scholarship)
 
 ---
 
 ## Post-Doctoral Fellow (1 Position)
 
-**Start date**: As discussed (flexible on a case-by-case basis; ideally before end of July 2026)
+**Start date**: Flexible on a case-by-case basis; ideally before end of July 2026  
+**Eligibility**: No restriction on citizenship or residency status — international candidates are encouraged to apply.
 
-We are seeking a post-doctoral fellow with hands-on experience in computational/quantitative genomics and individual-level biobank data (e.g., UK Biobank, All of Us). The successful candidate will lead projects in cardiometabolic drug target discovery using large-scale human genetics, proteomics, and multi-omics.
+We are seeking a post-doctoral fellow with hands-on experience in computational/quantitative genomics and biobank data (e.g., UK Biobank). The successful candidate will lead projects in cardiometabolic drug target discovery using large-scale human genetics, proteomics, and multi-omics.
 
 **Requirements**:
 - PhD or MD in a relevant field (e.g., genetics, bioinformatics, biostatistics, epidemiology, computer science, medicine, or related area)
 - Prior experience in computational/quantitative analyses
-- Experience with analyzing individual-level genetic data (e.g., genotyping, whole-genome/exome sequencing)
-- Experience with genetic epidemiology methods (GWAS, Mendelian randomization, colocalization, fine-mapping, or polygenic risk scores)
+- Experience with analyzing individual-level genetic data (genotyping or whole-genome/exome sequencing)
+- Experience with genetic epidemiology methods and willingness to learn more (GWAS, PRS, Mendelian randomization, colocalization, fine-mapping)
 - Strong quantitative skills (R, Python, Bash)
 - At least one first-author peer-reviewed paper in a relevant field
 - Strong English communication skills (spoken and written)
-- Willingness to learn genetic epidemiology methods (e.g., GWAS, MR), biology of human diseases, and large-scale quantitative analyses using high-performance computing
-
-**Expectations**:
-- Willingness to apply for external fellowships (e.g., federal: [Canada Postdoctoral Research Award](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program); provincial: [FRQS Postdoctoral Training Scholarship](https://frq.gouv.qc.ca/en/program/postdoctoral-training-scholarship-program/))
+- Willingness to learn genetic epidemiology methods (e.g., GWAS, PRS, fine-mapping, MR), biology of human diseases, and large-scale quantitative analyses using high-performance computing
 
 **Assets**:
 - Experience with individual-level genetic data from the UK Biobank and/or All of Us
@@ -72,33 +98,6 @@ Our lab investigates the biology of diabetes, obesity, cardiovascular diseases, 
 Representative publications include: [Yoshiji et al. *Nature Genetics* 2025](https://www.nature.com/articles/s41588-024-02052-7), [Bocher\*, Arruda\*, Yoshiji\* et al. *Nature Metabolism* 2026](#), [Su et al. *medRxiv* 2024](https://www.medrxiv.org/content/10.1101/2024.10.17.24315553v2), [Yoshiji et al. *Nature Metabolism* 2023](https://www.nature.com/articles/s42255-023-00742-w)
 
 Our team currently includes one PI, five PhD students, one MSc student, one Visiting Professor, and one visiting international PhD student. The lab is located in the **McGill Victor Philip Dahdaleh Institute of Genomic Medicine** on the downtown campus (740 Dr Penfield Ave, Montreal, Quebec H3A 2T8). We are one of the five labs in the **McGill Canada Excellence Research Chair (CERC) in Genomic Medicine**. As a growing lab, your success is our success. We are deeply committed to supporting and advancing your academic career development.
-
----
-
-## Your Project
-
-You will lead and publish projects in cardiometabolic diseases across multiple axes:
-
-1. **Large-scale human genetics, proteomics, and multi-omics for drug target discovery**:  
-   We combine genomics, proteomics, and other omics with genetic epidemiology to understand cardiometabolic diseases and discover therapeutic targets. You will have access to multi-omics data from more than 1 million individuals across the UK Biobank, NIH All of Us, Canadian Longitudinal Study of Aging (CLSA), CARTaGENE, and our McGill-based BioPortal.
-
-2. **Disentangling the heterogeneity of cardiometabolic diseases for precision risk stratification**:  
-   Using genomics and proteomics, we dissect the genetic heterogeneity of diabetes and complex traits to identify distinct biological pathways, therapeutic targets, and opportunities for precision medicine.
-
-3. **Analyzing a new biobank — McGill-based BioPortal**:  
-   We are creating a multi-ancestry, multi-omics biobank of 12,500 individuals in Montreal to advance drug development and precision medicine. You will analyze clinical-grade (CLIA) genomic data, proteomics (Olink HT), and electronic health records.
-
----
-
-## Your Key Roles
-
-- Lead your project, write and publish manuscripts under the PI's supervision
-- Collaborate with lab members, other CERC members, and national/international collaborators
-- Stay current on relevant studies and methods; actively discuss them with the PI and the team
-- Present your work at national and international conferences
-- Attend lab meetings, seminars, journal clubs, and lab events; foster a welcoming and inclusive environment
-- Work with a goal-oriented mindset and respect deadlines in a fast-paced environment
-- Work in the lab on weekdays with a work-from-home option as needed (Monday is reserved for lab meetings and seminars); flexible arrangements are possible for classes, health, or severe weather
 
 ---
 
