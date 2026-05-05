@@ -38,6 +38,11 @@ The PI is also affiliated with [McGill’s Quantitative Life Sciences Program](h
 [Hasebe et al. *Diab Obes Metab* 2025](https://dom-pubs.onlinelibrary.wiley.com/doi/full/10.1111/dom.70121)  
 	
 **News**:<br />
+May 2026.  
+• Our preprint is out! Congratulations, Chen-Yang!  
+Systematic variant-to-gene mapping highlights TGFB2 and VEGFA as adipokine-coding genes with non-obese, insulin-resistance-like characteristics and distinct disease risks  
+[*medRxiv* (2026).](https://www.medrxiv.org/content/10.64898/2026.05.01.26352257v1)
+
 Apr 2026.  
 • Our paper on monogenic diabetes in Japan and India has been published in *Diabetes Research and Clinical Practice*. Congratulations, Masashi!  
 Hasebe, M., Radha, V., Amutha, A., Tanaka, D., Imaizumi, T., Yabe, D., Yoshiji, S., Inagaki, N., Mohan, V. Monogenic diabetes in Japan and India: A call for broader screening.  
