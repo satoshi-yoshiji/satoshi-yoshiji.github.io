@@ -39,6 +39,11 @@ The PI is also affiliated with [McGill’s Quantitative Life Sciences Program](h
 	
 **News**:<br />
 May 2026.  
+• Our collaboration paper has been published in *Nature Genetics*!  
+Empirically determined baseline masking strategies and other considerations for gene-level burden tests  
+Trang Nguyen, Ryan Koesterer, Poeya Haydarlou, Peter Dornbos, Satoshi Yoshiji, Alex Llamas, Dongkeun Jang, Patrick Smadbeck, Annie Moriondo, Quy Hoang, Oliver Ruebenacker, Connie R. Bezzina, Patrick Ellinor, Sean J. Jurgens, Noël P. Burtt, Jason Flannick  
+[*Nat Genet* (2026).](https://www.nature.com/articles/s41588-026-02597-9)
+
 • Our preprint is out! Congratulations, Chen-Yang!  
 Systematic variant-to-gene mapping highlights TGFB2 and VEGFA as adipokine-coding genes with non-obese, insulin-resistance-like characteristics and distinct disease risks  
 [*medRxiv* (2026).](https://www.medrxiv.org/content/10.64898/2026.05.01.26352257v1)
