@@ -9,7 +9,7 @@ author_profile: true
 [https://doi.org/10.1038/s41588-024-02052-7](https://doi.org/10.1038/s41588-024-02052-7)  
 ![selectedpub1](selectedpub1.png)
 
-2. Chen-Yang Su, Adriaan van der Graaf, Wenmin Zhang, Dong-Keun Jang, Susannah Selber-Hnatiw, Ta-Yu Yang, Guillaume Butler-Laporte, Kevin Y. H. Liang, Yiheng Chen, Fumihiko Matsuda, Maria C. Costanzo, J. Brent Richards, Noel P. Burtt, Jason Flannick, Sirui Zhou, Vincent Mooser, Tianyuan Lu, Satoshi Yoshiji.  *medRxiv* 2024.10.17.24315553; doi: [https://doi.org/10.1101/2024.10.17.24315553](https://doi.org/10.1101/2024.10.17.24315553).  
+2. Chen-Yang Su, Adriaan van der Graaf, Wenmin Zhang, Dong-Keun Jang, Susannah Selber-Hnatiw, Ta-Yu Yang, Guillaume Butler-Laporte, Kevin Y. H. Liang, Fumihiko Matsuda, Maria C. Costanzo, Noel P. Burtt, Jason Flannick, Sirui Zhou, Vincent Mooser, Tianyuan Lu, Satoshi Yoshiji.  *medRxiv* 2024.10.17.24315553; doi: [https://doi.org/10.1101/2024.10.17.24315553](https://doi.org/10.1101/2024.10.17.24315553).  
 Interactive browser: [https://broad.io/protein_mr_atlas](https://broad.io/protein_mr_atlas)   
 ![selectedpub2](selectedpub2.png)
 
