@@ -123,7 +123,7 @@ Jun 2025.
 • Satoshi Yoshiji had an interview with Frontline Genomics. Transcripts and recordings are available [here](https://frontlinegenomics.com/satoshi-yoshiji/).
 
 May 2025.  
-• Satoshi Yoshiji has been awarded the Canada Research Chair in Human Genetics and Therapeutic Discovery by the Government of Canada, together with CFI-JELF.
+• Satoshi Yoshiji has been awarded the Canada Research Chair in Human Genetics and Therapeutic Discovery by the Government of Canada, along with a Canada Foundation for Innovation John R. Evans Leaders Fund (CFI-JELF) infrastructure award. [More details](https://www.mcgill.ca/humangenetics/channels/news/dr-satoshi-yoshiji-awarded-canada-research-chair-human-genetics-and-therapeutic-discovery-372958).
 
 • Maya Akerman, an undergraduate intern, has joined our lab. Welcome, Maya!
 
