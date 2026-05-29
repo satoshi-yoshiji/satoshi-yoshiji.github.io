@@ -39,6 +39,8 @@ The PI is also affiliated with [McGill’s Quantitative Life Sciences Program](h
 	
 **News**:<br />
 May 2026.  
+• Urvashi Singh and Arthur Richard (QLS PhD rotation student) gave talks at the Montreal Genomics Meeting. Great job both! In June 2026, Megan Tsao, Urvashi Singh, and Satoshi Yoshiji will give presentations at ESHG in Sweden.
+
 • Our collaboration paper has been published in *Nature Genetics*!  
 Empirically determined baseline masking strategies and other considerations for gene-level burden tests  
 Trang Nguyen, Ryan Koesterer, Poeya Haydarlou, Peter Dornbos, Satoshi Yoshiji, Alex Llamas, Dongkeun Jang, Patrick Smadbeck, Annie Moriondo, Quy Hoang, Oliver Ruebenacker, Connie R. Bezzina, Patrick Ellinor, Sean J. Jurgens, Noël P. Burtt, Jason Flannick  
