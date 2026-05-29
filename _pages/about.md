@@ -153,7 +153,7 @@ Dec 2024.
 Nov 2024.  
 • Our multi-ancestry proteome-phenome-wide MR atlas work is out!  
 Multi-ancestry proteome-phenome-wide Mendelian randomization offers a comprehensive protein-disease atlas and potential therapeutic targets  
-Chen-Yang Su, Adriaan van der Graaf, Wenmin Zhang, Dong-Keun Jang, Susannah Selber-Hnatiw, Ta-Yu Yang, Guillaume Butler-Laporte, Kevin Y. H. Liang, Yiheng Chen, Fumihiko Matsuda, Maria C. Costanzo, Noel P. Burtt, Jason Flannick, Sirui Zhou, Vincent Mooser, Tianyuan Lu, Satoshi Yoshiji. *medRxiv* 2024.10.17.24315553.  
+Chen-Yang Su, Adriaan van der Graaf, Wenmin Zhang, Dong-Keun Jang, Susannah Selber-Hnatiw, Ta-Yu Yang, Guillaume Butler-Laporte, Kevin Y. H. Liang, Fumihiko Matsuda, Maria C. Costanzo, Noel P. Burtt, Jason Flannick, Sirui Zhou, Vincent Mooser, Tianyuan Lu, Satoshi Yoshiji. *medRxiv* 2024.10.17.24315553.  
 [*medRxiv* (2024).](https://doi.org/10.1101/2024.10.17.24315553)  
 Interactive browser: [broad.io/protein_mr_atlas](https://broad.io/protein_mr_atlas)  
 This was made possible through the collaboration with the Knowledge Portal Team at the Broad Institute  
