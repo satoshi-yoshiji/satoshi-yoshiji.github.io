@@ -38,8 +38,19 @@ The PI is also affiliated with [McGill’s Quantitative Life Sciences Program](h
 [Hasebe et al. *Diab Obes Metab* 2025](https://dom-pubs.onlinelibrary.wiley.com/doi/full/10.1111/dom.70121)  
 	
 **News**:<br />
+June 2026.  
+• Megan Tsao, Urvashi Singh, and Satoshi Yoshiji gave presentations at ESHG in Sweden!
+
+• Our paper on the cardiovascular efficacy of GLP-1 receptor agonists by kidney function has been published in *Diabetes, Obesity and Metabolism*. Congratulations, Masashi!  
+Hasebe, M., Su, C.-Y., Yabe, D., Yoshiji, S. Cardiovascular Efficacy of GLP-1 Receptor Agonists by Kidney Function: An Updated Meta-Analysis of Randomized Trials Including the SOUL Trial.  
+[*Diabetes Obes Metab* (2026).](https://doi.org/10.1111/dom.71035)
+
+• Our preprint is out! Congratulations, Masashi!  
+Population-Scale, Genotype-First Characterization of Monogenic Diabetes in 374,973 Multi-Ancestry Individuals from the *All of Us* Research Program  
+[*medRxiv* (2026).](https://www.medrxiv.org/content/10.64898/2026.06.12.26355541v1)
+
 May 2026.  
-• Urvashi Singh and Arthur Richard (QLS PhD rotation student) gave talks at the Montreal Genomics Meeting. Great job both! In June 2026, Megan Tsao, Urvashi Singh, and Satoshi Yoshiji will give presentations at ESHG in Sweden.
+• Urvashi Singh and Arthur Richard (QLS PhD rotation student) gave talks at the Montreal Genomics Meeting. Great job both!
 
 • Our collaboration paper has been published in *Nature Genetics*!  
 Empirically determined baseline masking strategies and other considerations for gene-level burden tests  
