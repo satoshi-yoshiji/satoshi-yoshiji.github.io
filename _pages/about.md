@@ -38,6 +38,19 @@ The PI is also affiliated with [McGill’s Quantitative Life Sciences Program](h
 [Hasebe et al. *Diab Obes Metab* 2025](https://dom-pubs.onlinelibrary.wiley.com/doi/full/10.1111/dom.70121)  
 	
 **News**:<br />
+July 2026.  
+• Megan Tsao has been selected as a Predoctoral Finalist for the 2026 ASHG Trainee Research Excellence Award and will give an oral platform presentation at ASHG. Congratulations, Megan!
+
+• Arthur Richard has been selected as a Predoctoral Semifinalist for the 2026 ASHG Trainee Research Excellence Award and will give a lightning talk at ASHG. Congratulations, Arthur!
+
+• Urvashi Singh has been selected as a Roger Williams Award Finalist by IGES and will give an oral platform presentation at IGES. Congratulations, Urvashi!
+
+• Masashi Hasebe will give a lightning talk at ASHG, and Satoshi Yoshiji will give oral platform presentations at ASHG and IGES.
+
+• Our editorial on proteome-wide Mendelian randomization for cardiovascular disease has been published in the *Journal of the American College of Cardiology*!  
+Yoshiji, S., Clarke, S.L. Triangulating Evidence in Proteome-Wide Mendelian Randomization for Cardiovascular Disease: Insights Across Ancestries and Modalities.  
+[*J Am Coll Cardiol* (2026).](https://doi.org/10.1016/j.jacc.2026.05.048)
+
 June 2026.  
 • Megan Tsao, Urvashi Singh, and Satoshi Yoshiji gave presentations at ESHG in Sweden!
 
