@@ -45,7 +45,7 @@ July 2026.
 
 • Urvashi Singh has been selected as a Roger Williams Award Finalist by IGES and will give an oral platform presentation at IGES. Congratulations, Urvashi!
 
-• Jiawen Lu, Leighton Smith, Masashi Hasebe (lightning talk), Satoshi Yoshiji (oral platform presentation), Urvashi Singh, and Yefeng Yang will give presentations at ASHG! Satoshi Yoshiji will also give an oral platform presentation at IGES.
+• Jiawen Lu, Leighton Smith, Masashi Hasebe (lightning talk), Satoshi Yoshiji (oral), Urvashi Singh, and Yefeng Yang will give presentations at ASHG! Satoshi Yoshiji will also give an oral platform presentation at IGES.
 
 • Our editorial on proteome-wide Mendelian randomization for cardiovascular disease has been published in the *Journal of the American College of Cardiology*!  
 Yoshiji, S., Clarke, S.L. Triangulating Evidence in Proteome-Wide Mendelian Randomization for Cardiovascular Disease: Insights Across Ancestries and Modalities.  
