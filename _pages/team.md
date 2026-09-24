@@ -46,6 +46,18 @@ He graduated from McGill in 2024 with a BSc in Honours in Immunology. His resear
 In his spare time he enjoys playing sports and programming video games.  
 ![profile_photo_leighton_smith](profile_leighton_smith.png)
 
+**Ai Fujii, MD, PhD**<br />
+Visiting Professor<br />
+Ai Fujii is a nephrologist from Kanazawa Medical University in Japan. She completed her MD and PhD at Kanazawa Medical University, where her research focused on DNA damage and diabetic kidney disease.  
+Her current research interests include understanding the mechanisms that drive accelerated kidney disease progression, with a particular focus on disease heterogeneity. Through training in human genetics, multi-omics, and causal inference approaches, she aims to identify strategies to improve risk stratification and prevent the progression of kidney disease.  
+![profile_photo_ai_fujii](profile_ai_fujii.png)
+
+**Arthur Richard, BSc**<br />
+PhD student<br />
+Arthur Richard is a student from the PhD Program in Quantitative Life Sciences at McGill University under the supervision of Dr. Satoshi Yoshiji. He previously completed a Bachelor's degree in Systems and Information Biology at Concordia University.  
+He is interested in applying multi-omics approaches to study how molecular ageing relates to disease risk and clinical outcomes, and to prioritize protein contributors to age-related disease risk. Previously he used AI-driven approaches to prioritize genes as potential therapeutic targets in kidney diseases.  
+![profile_photo_arthur_richard](profile_arthur_richard.png)
+
 Alumni<br />
 **Chen-Yang Su, MSc**<br />
 PhD student<br />
