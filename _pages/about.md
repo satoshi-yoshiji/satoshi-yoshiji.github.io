@@ -39,15 +39,10 @@ The PI is also affiliated with [McGill’s Quantitative Life Sciences Program](h
 	
 **News**:<br />
 Oct 2026.  
-• The Yoshiji Lab is heading to ASHG 2026 and IGES 2026 in Montréal! We will give 11 presentations: 5 oral/symposium talks, 2 lightning talks and 4 posters. Highlights:  
-  – Megan Tsao: ASHG platform talk (Trainee Research Excellence Award Finalist), Thu Oct 22, 8:30 AM, Room 710B  
-  – Arthur Richard: lightning talk (Award Semifinalist, Reviewers' Choice), Wed Oct 21  
-  – Masashi Hasebe: lightning talk (Reviewers' Choice), Wed Oct 21  
-  – Urvashi Singh: IGES platform talk (Roger Williams Award Finalist), Sun Oct 18  
-  – Satoshi Yoshiji: Illumina symposium "Voices of the Next Generation of Leaders in Genomic Medicine Research" (Tue Oct 20), ASHG platform talk (Sat Oct 24) and IGES platform talk (Mon Oct 19)  
-[See our full schedule](/images/ASHG2026_schedule.png). Come say hi!
+• Our lab will present at #ASHG2026 and #IGES2026 with 1 symposium, 4 talks, 2 lightning talks, and 5 posters on cardiometabolic genomics and proteomics. We’d love to see you there!  
+![ASHG2026_schedule](/images/ASHG2026_schedule.png)
 
-• Satoshi Yoshiji appeared in a Japanese-language video from the *Journal of the American College of Cardiology* (*JACC Baran*) to discuss proteomics-driven drug target discovery for ischemic heart disease. [Watch](https://www.youtube.com/watch?v=eo61y9iVUrE).
+• Satoshi Yoshiji appeared in a video from the *Journal of the American College of Cardiology* (*JACC Baran*) to discuss proteomics-driven drug target discovery for ischemic heart disease. [Watch (Japanese)](https://www.youtube.com/watch?v=eo61y9iVUrE).
 
 Sep 2026.  
 • Satoshi Yoshiji gave a Knowledge Portal Network (KPN) webinar, "Large-Scale Genomics and Proteomics to Study Diabetes and Cardiometabolic Diseases." [Watch the recording](https://youtu.be/fmfJ5e9Vb6k).
